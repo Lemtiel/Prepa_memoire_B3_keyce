@@ -1,0 +1,33 @@
+- https://dspace.ummto.dz/items/37c0d236-2d9c-42c1-838e-8fa362efb0df 12:36 31/07/2025 : le role du système d'information intégré dans la gestion des services medicaux cas : CHU de T. O 
+Date
+2023-11-05
+Auteurs
+Boukerma, Kamelia
+Éditeur
+Université Moulud Mammeri
+
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8734474/pdf/tunismedv99i4-435-440.pdf 14:23 31/07/2025 : Indicateurs de Performance et Tableau de Bord pour un Service d'Urgences d'un Centre Hospitalier Universitaire
+
+
+
+- : The use of dashboards and performance management in public hospitals: the case of Togo
+
+
+- https://inria.hal.science/hal-01107340 16:09 31/07/2025 : Mise en place d'un système d'assistance personnalisée dans une application existante
+Soumis le : mardi 20 janvier 2015-15:17:44
+Dernière modification le : mercredi 4 septembre 2024-17:34:07
+Archivage à long terme le : mardi 21 avril 2015-11:31:58
+
+
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10930147/?utm_source=chatgpt.com 12:47 01/08/2025 : A systematic review of artificial intelligence‑powered chatbot intervention for managing chronic illness
+
+- https://arxiv.org/pdf/2009.03002 : 12:48 01/08/2025 : QualDash: Adaptable Generation of Visualisation Dashboards for Healthcare Quality Improvement
+Auteurs : Mai Elshehaly, Rebecca Randell, Matthew Brehmer, Lynn McVey, Natasha Alvarado, Chris P. Gale, and Roy A. Ruddle
+
+- https://maligah.com/entreprises/details/clinique-sainte-therese?id=97497  13:25 01/08/2025 : A propos de la Clinique Sainte Thérèse - maligah.com
+
+- https://www.researchgate.net/publication/366464364_Business_Intelligence_Dashboard_in_Healthcare_Lesson_Learned 14:19 01/08/2025 : Business Intelligence Dashboard in Healthcare: Lesson Learned
+
+
+- https://www.academia.edu/download/120895095/Optimising_Sales_Forecasts_in_ERP_Systems_Using_Machine_Learning_and_Predictive_Analytics.pdf  15:02 04/08/2025  : Optimising Sales Forecasts in ERP Systems Using Machine Learning and Predictive Analytics 
+Auteurs : Krishna Madhav J, 2023

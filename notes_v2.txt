@@ -1,0 +1,72 @@
+!!!!! ATTENTION !!!!!
+Après échange avec la directrice adjointe de la TDR Consulting SARL, le responsable marketing & informatique et le communinity manager de la socièté, il en ressort que la TDR Consulting SARL et tout d'abord un groupe de trois structures : IFPCE (Institut de Formation Professionnel, de Certification et d'Expertise), CERD (Centre d'Etude et de Recherche pour le Développement) et TDR (Terme De Référence).
+Le cabinet TDR un cabinet de prestation de service pluridisciplinaire (statistiques, informatique, ingénieurie économique, etc.) 
+Ils conçoivent présentement une solution ERP appelée "Uptimum" pour la gestion d'une structure sanitaire ; en l'occurence les hôpitaux, les pharmacies et les clinniques, mais aussi pour des structures financières.
+
+On peut donc mieux orienter notre recherche vers le sujet suivant :
+"Guide d'utilisation et suivi des performances d'une structure via son progiciel de gestion : cas de l'ERP Uptimum" 
+
+thème de recherche : "Utilisation de l'IA et des techniques Big Data pour le suivi des performances et la facilitation d'utilisation d'applications : cas de l'ERP Uptimum"
+
+Contexte: Situation trouvée sur le terrain ; ce n'est pas considéré comme le pb mais comme le contexte
+- Documenetation non existante de l'ERP
+- Performances non suivies de la structure de destination (services recourus, KPI, secteurs actifs, etc.)
+
+pbmatique :
+- Comment faciliter l'utilisation et assurer le suivi constant des performances d'une structure via une ERP ?
+	1. Comment faciliter l'exploitation de la documentation de l'ERP ?
+	2. Comment suivre l'evolution des services de la structure ?
+	3. Pourquoi le suivi des performances est-il important ?
+
+
+Hypothèse :
+- l'utilisation de Chatbot et de dashboards Business Intelligence faciliterait grandement l'utilisation de l'ERP et assurerait le suivi des performances des structures
+1. Pour faciliter l'utilisation de l'ERP via l'exploitation de sa documentation, on pourrait créer un chatBot générateur de texte et/ou à option vocale pour décrire de manière détaillée la réalisation de telle ou telle opération sur l'ERP.
+2. Des dashboard de Businness Intelligence permettraient de suivre en permanence le performances/statistiques (nombre de patients, maladies reccurentes, tranches d'âge des malades, etc.) de chaque départements/services (urgences, pédiatrie, gynécologie, ophralmologie, etc.) de la structure. 
+NB: L'exmple est directement pris pour la structure de destination de l'ERP
+3. Le suivi des performances est important pour la structure au regard des aspects economiques et pratiques
+
+
+justification :
+1.(Scientifique & Technologique) : Mise en pratique des approches moderne d'étude de données (Datamining, Business Intelligence) et NLP (Chatbot)
+
+2.(Pratique) : Répondre à un besoin opérationnel, améliorer l'efficacité du personnel et application des notions théorique de cours.
+
+3.(Economique) : Réduction des pertes de temps, des coûts de gestion et augmentation de la rentabilité.
+
+4.(Pédagogique) : Démonstration de la capacité à allier la théorie à la pratique, tout en produisant un livrable utile.
+
+
+délimitations :
+1.(Théorique) : 
+- Création d'un ChatBot utilisant les fonctions vocale et de génération de texte pour exploiter la documentation de l'ERP
+- Création de tableaux de bord powerBI ou avec Streamlit pour suivre les statistiques de la structure
+- Intégration d'un module comprenant les deux innovation à l'ERP
+
+Réponse IA :
+1.(Théorique) : 
+- Intégration de techniques d'IA centrées sur le NLP, notamment la génération de texte et l'interaction vocale, à des fins d'assistance et de guidage des utilisateurs dans l'exploitation fonctionnelle de l'ERP Uptimum. 
+- Elle ne couvre pas la création d'un agent autonome de diagnostic médical ni les aspects avancés d'analyse sémantique médicale
+
+2.(Méthodologiques) :
+- Elle adopte une approche expérimentale fondée sur le prototypage d'un module intelligent combinant les techniques de visualisation de données (dashboards BI) et un système conversationnel (assistance vocale et textuelle)
+- Elle ne vise pas à évaluer cliniquement les effets des développés sur la qualité des soins médicaux.
+
+3.(Spatio-temporelle) :
+- L'étude est menée dans le cadre d'un stage académique au sein de la TDR Consulting SARL sur une période allant de Juillet à Août
+- Le péréimètre d'analyse ne concerne que l'ERP Uptimum en cours de développement, tel qu'utilisé par les structures sanitaires ciblées par le cabinet
+
+4.(Fonctionnelle) : 
+- Les modules développées se concentrent exclusivement sur deux volets : (i)création d'un tableau de bord décisionnel pour le suivi des performances hospitalières et (ii) le développement d'un assitant pour l'acompagnement à l'utilisation. 
+- Les fonctions administratives, comptables ou logistiques de l'ERP ne sont pas intégrées dans ce périmètre.
+
+
+Projections & voies d'améliorations :
+- Intégrer un module d'analyse prédictive pour détecter les potentiels sujets à certaines maladies
+- Intégrer un automatiseur de tâches répétitives (enregistrement de patients, création de factures, fiches comptables, etc.)
+- Intégrer un module de recommandation et de suivi des soins pour certains patients sujets à certains symptômes.
+
+
+
+!!!!!!!ATTENTION!!!!!!!
+Après cnversation avec Ralph, on va intégrer l'option prédiction directement dans le mémoire. On réadapte toute la partie introductive du mémoire
