@@ -75,3 +75,30 @@ Après cnversation avec Ralph, on va intégrer l'option prédiction directement 
 
 Demander à produire un rapport pour la biblio graphie et la webographie.
 Monter le pptx pour la présentation de cette fin de semaine
+
+
+2.1. Nature de l’étude, variables et indicateurs
+2.1.1. Nature de l’étude
+
+La présente recherche s’inscrit dans une démarche appliquée et expérimentale. Elle est appliquée dans la mesure où elle vise à résoudre un problème concret rencontré dans un contexte hospitalier, à savoir l’amélioration de l’ERP Uptiimum par l’intégration de modules d’intelligence artificielle. Elle est également expérimentale, car elle propose de concevoir, tester et évaluer un prototype intégrant des fonctionnalités de prédiction, de visualisation via des tableaux de bord et d’assistance intelligente. L’approche se veut donc pluridisciplinaire, mobilisant à la fois l’informatique décisionnelle, le Big Data, l’intelligence artificielle et la gestion hospitalière, afin de générer un système capable d’optimiser les performances et de faciliter l’utilisation de l’ERP par les professionnels de santé.
+
+2.1.2. Variables de l’étude
+2.1.2.1. Définition conceptuelle
+
+Dans ce contexte, une variable désigne un élément mesurable ou observable qui influence ou décrit le fonctionnement de l’ERP enrichi par des techniques d’IA. Deux grandes catégories de variables peuvent être identifiées :
+
+Variables indépendantes (ou explicatives) : elles correspondent aux données hospitalières exploitées dans le système. On distingue par exemple les données administratives (effectifs du personnel, fréquentation des services), les données médicales (dossiers patients, diagnostics, prescriptions), et les données financières (recettes, coûts, facturation). Ces variables constituent la matière première à partir de laquelle l’IA opère ses analyses.
+
+Variables dépendantes (ou à expliquer) : elles désignent les résultats ou performances obtenus grâce au traitement des données par l’ERP amélioré. Cela inclut la précision des prédictions (par exemple sur l’occupation des lits ou l’afflux de patients), la pertinence et la lisibilité des tableaux de bord générés, ainsi que l’efficacité de l’assistance intégrée dans l’ERP pour l’orientation des utilisateurs.
+
+2.1.2.2. Utilisation des variables
+
+Les variables identifiées sont mobilisées selon trois axes :
+
+Pour la prédiction : les variables historiques issues des bases de données hospitalières (nombre d’entrées, type de pathologies, durée moyenne de séjour, charges financières) servent à entraîner des modèles de machine learning capables de prédire l’évolution de certains indicateurs (afflux de patients, consommation de ressources, etc.).
+
+Pour la visualisation : les variables sont agrégées et représentées sous forme de tableaux de bord interactifs. Ces visualisations permettent aux décideurs hospitaliers de suivre en temps réel les performances et d’anticiper les besoins en ressources humaines, matérielles ou financières.
+
+Pour l’assistance intelligente : les variables alimentent le module de chatbot intégré dans l’ERP, qui utilise les données contextuelles pour guider les utilisateurs. Par exemple, en fonction du profil de l’utilisateur (médecin, gestionnaire, infirmier), le système propose des recommandations adaptées et facilite la navigation dans l’application.
+
+En résumé, la distinction entre variables indépendantes et dépendantes, ainsi que leur utilisation ciblée, permet de traduire les données hospitalières brutes en informations exploitables et en outils intelligents au service de la performance hospitalière.
