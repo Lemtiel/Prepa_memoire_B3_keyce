@@ -77,28 +77,10 @@ Demander à produire un rapport pour la biblio graphie et la webographie.
 Monter le pptx pour la présentation de cette fin de semaine
 
 
-2.1. Nature de l’étude, variables et indicateurs
-2.1.1. Nature de l’étude
+2.3.3. Analyse des données
 
-La présente recherche s’inscrit dans une démarche appliquée et expérimentale. Elle est appliquée dans la mesure où elle vise à résoudre un problème concret rencontré dans un contexte hospitalier, à savoir l’amélioration de l’ERP Uptiimum par l’intégration de modules d’intelligence artificielle. Elle est également expérimentale, car elle propose de concevoir, tester et évaluer un prototype intégrant des fonctionnalités de prédiction, de visualisation via des tableaux de bord et d’assistance intelligente. L’approche se veut donc pluridisciplinaire, mobilisant à la fois l’informatique décisionnelle, le Big Data, l’intelligence artificielle et la gestion hospitalière, afin de générer un système capable d’optimiser les performances et de faciliter l’utilisation de l’ERP par les professionnels de santé.
+L’analyse des données s’est appuyée à la fois sur les informations fictives générées dans la base de données et sur les interactions recueillies auprès des testeurs. Deux principaux axes ont été privilégiés :
 
-2.1.2. Variables de l’étude
-2.1.2.1. Définition conceptuelle
+Validation technique et fonctionnelle : il s’agissait d’une part de vérifier la cohérence, l’intégrité et la complétude des données insérées dans la base, afin de s’assurer de leur conformité avec la structure relationnelle de l’ERP Uptiimum, et d’autre part d’évaluer l’usage fonctionnel de la solution à travers les retours des testeurs. Ces derniers ont permis de mesurer la pertinence et l’utilité pratique des tableaux de bord, la fluidité de navigation et l’efficacité du chatbot en contexte simulé.
 
-Dans ce contexte, une variable désigne un élément mesurable ou observable qui influence ou décrit le fonctionnement de l’ERP enrichi par des techniques d’IA. Deux grandes catégories de variables peuvent être identifiées :
-
-Variables indépendantes (ou explicatives) : elles correspondent aux données hospitalières exploitées dans le système. On distingue par exemple les données administratives (effectifs du personnel, fréquentation des services), les données médicales (dossiers patients, diagnostics, prescriptions), et les données financières (recettes, coûts, facturation). Ces variables constituent la matière première à partir de laquelle l’IA opère ses analyses.
-
-Variables dépendantes (ou à expliquer) : elles désignent les résultats ou performances obtenus grâce au traitement des données par l’ERP amélioré. Cela inclut la précision des prédictions (par exemple sur l’occupation des lits ou l’afflux de patients), la pertinence et la lisibilité des tableaux de bord générés, ainsi que l’efficacité de l’assistance intégrée dans l’ERP pour l’orientation des utilisateurs.
-
-2.1.2.2. Utilisation des variables
-
-Les variables identifiées sont mobilisées selon trois axes :
-
-Pour la prédiction : les variables historiques issues des bases de données hospitalières (nombre d’entrées, type de pathologies, durée moyenne de séjour, charges financières) servent à entraîner des modèles de machine learning capables de prédire l’évolution de certains indicateurs (afflux de patients, consommation de ressources, etc.).
-
-Pour la visualisation : les variables sont agrégées et représentées sous forme de tableaux de bord interactifs. Ces visualisations permettent aux décideurs hospitaliers de suivre en temps réel les performances et d’anticiper les besoins en ressources humaines, matérielles ou financières.
-
-Pour l’assistance intelligente : les variables alimentent le module de chatbot intégré dans l’ERP, qui utilise les données contextuelles pour guider les utilisateurs. Par exemple, en fonction du profil de l’utilisateur (médecin, gestionnaire, infirmier), le système propose des recommandations adaptées et facilite la navigation dans l’application.
-
-En résumé, la distinction entre variables indépendantes et dépendantes, ainsi que leur utilisation ciblée, permet de traduire les données hospitalières brutes en informations exploitables et en outils intelligents au service de la performance hospitalière.
+Exploitation par l’intelligence artificielle : parallèlement, les données fictives ont été mobilisées pour entraîner et tester les modules d’intelligence artificielle intégrés à la solution. Plus précisément, elles ont servi à développer un modèle prédictif capable d’anticiper certaines variables de performance hospitalière (telles que la fréquentation ou les charges financières) et à évaluer la capacité du chatbot intelligent à comprendre et traiter correctement les requêtes des utilisateurs dans un environnement simulé. L’analyse a ainsi porté sur la précision des prédictions générées, la pertinence des réponses du chatbot, ainsi que sur la robustesse globale des modèles face aux scénarios testés.
