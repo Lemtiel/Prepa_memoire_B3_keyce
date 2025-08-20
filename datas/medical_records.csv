@@ -1,0 +1,1001 @@
+Patient_ID;Date;Prescribed_Medication;Test_Ordered;Test_Result
+120;29/09/2024;Page 500mg;MRI;Critical
+132;14/02/2023;Take 500mg;ECG;Abnormal
+16;21/08/2021;Yes 500mg;Blood Test;Normal
+463;24/07/2024;Sea 500mg;X-ray;Critical
+148;08/10/2023;Environment 500mg;Urinalysis;Normal
+91;15/06/2021;Write 500mg;Blood Test;Normal
+87;08/10/2022;Car 500mg;CT Scan;Critical
+202;27/02/2022;Indicate 500mg;ECG;Normal
+495;11/06/2021;The 500mg;ECG;Critical
+155;19/12/2023;Stock 500mg;X-ray;Critical
+21;22/10/2021;Reduce 500mg;MRI;Abnormal
+484;17/06/2021;Weight 500mg;X-ray;Abnormal
+325;04/02/2024;Worry 500mg;Urinalysis;Normal
+161;03/09/2023;Senior 500mg;Urinalysis;Normal
+355;21/09/2023;Evidence 500mg;ECG;Normal
+338;17/01/2023;Choice 500mg;MRI;Normal
+163;26/02/2022;Air 500mg;Urinalysis;Critical
+196;20/04/2020;Husband 500mg;ECG;Critical
+264;14/09/2022;Give 500mg;Urinalysis;Abnormal
+453;10/08/2020;Education 500mg;ECG;Normal
+392;25/04/2023;Hospital 500mg;MRI;Abnormal
+191;30/05/2024;Camera 500mg;MRI;Abnormal
+243;25/05/2022;Book 500mg;ECG;Abnormal
+300;28/12/2023;Time 500mg;Urinalysis;Critical
+179;17/01/2024;Ten 500mg;Blood Test;Normal
+266;22/10/2023;Total 500mg;MRI;Critical
+325;28/03/2022;Cultural 500mg;CT Scan;Abnormal
+301;05/09/2023;Successful 500mg;ECG;Abnormal
+415;05/03/2024;Administration 500mg;Blood Test;Critical
+336;18/07/2024;Believe 500mg;X-ray;Normal
+452;05/10/2024;So 500mg;Blood Test;Abnormal
+103;30/01/2024;Already 500mg;Urinalysis;Normal
+105;24/10/2020;Say 500mg;Blood Test;Critical
+23;04/02/2023;Lay 500mg;MRI;Critical
+223;01/10/2022;Right 500mg;Blood Test;Critical
+74;26/07/2023;Born 500mg;Urinalysis;Abnormal
+367;15/02/2021;Activity 500mg;ECG;Abnormal
+218;11/05/2021;Hold 500mg;CT Scan;Abnormal
+300;24/02/2020;Marriage 500mg;CT Scan;Abnormal
+421;06/12/2021;Oil 500mg;ECG;Normal
+289;02/07/2020;Back 500mg;CT Scan;Abnormal
+482;24/09/2021;Happy 500mg;ECG;Critical
+356;27/11/2023;Alone 500mg;MRI;Abnormal
+71;18/11/2024;Care 500mg;Urinalysis;Abnormal
+478;24/06/2021;Night 500mg;X-ray;Normal
+330;10/07/2020;Sometimes 500mg;X-ray;Critical
+273;24/02/2023;Detail 500mg;Blood Test;Abnormal
+205;20/09/2021;Policy 500mg;Blood Test;Normal
+388;06/12/2022;Lead 500mg;Urinalysis;Abnormal
+244;27/09/2020;True 500mg;X-ray;Normal
+4;06/08/2021;Glass 500mg;Urinalysis;Abnormal
+126;11/09/2024;Something 500mg;CT Scan;Normal
+412;24/03/2023;Decision 500mg;Urinalysis;Normal
+334;01/10/2023;There 500mg;CT Scan;Abnormal
+83;15/01/2022;Pass 500mg;CT Scan;Abnormal
+394;20/03/2020;Fire 500mg;Blood Test;Critical
+461;22/11/2022;Kid 500mg;ECG;Abnormal
+500;04/09/2023;Approach 500mg;Urinalysis;Abnormal
+469;03/10/2021;Owner 500mg;ECG;Abnormal
+88;06/09/2021;Accept 500mg;X-ray;Critical
+252;24/11/2021;Personal 500mg;MRI;Critical
+122;12/02/2024;Radio 500mg;X-ray;Normal
+364;01/08/2020;High 500mg;Urinalysis;Abnormal
+177;29/02/2024;Should 500mg;Blood Test;Normal
+9;21/08/2023;Staff 500mg;MRI;Abnormal
+470;04/05/2024;Wide 500mg;MRI;Critical
+335;27/04/2021;Customer 500mg;MRI;Normal
+259;26/10/2023;General 500mg;MRI;Normal
+81;03/12/2021;Drug 500mg;CT Scan;Critical
+306;16/09/2020;Stage 500mg;Urinalysis;Critical
+453;15/05/2022;Really 500mg;X-ray;Normal
+364;04/04/2022;Idea 500mg;ECG;Critical
+50;18/10/2020;Author 500mg;MRI;Abnormal
+248;22/04/2023;Their 500mg;ECG;Abnormal
+76;06/11/2024;Article 500mg;CT Scan;Normal
+381;20/05/2020;Vote 500mg;ECG;Abnormal
+374;26/04/2022;Whether 500mg;ECG;Critical
+119;15/09/2024;Property 500mg;X-ray;Normal
+362;22/02/2021;Age 500mg;X-ray;Abnormal
+309;08/06/2023;Yard 500mg;Urinalysis;Critical
+214;02/05/2024;Tax 500mg;Urinalysis;Critical
+414;18/04/2020;Improve 500mg;CT Scan;Normal
+401;10/07/2022;Or 500mg;Urinalysis;Critical
+194;15/12/2023;Discussion 500mg;MRI;Normal
+33;02/10/2020;Already 500mg;Urinalysis;Normal
+134;29/09/2023;They 500mg;X-ray;Critical
+278;21/12/2020;Probably 500mg;CT Scan;Normal
+174;20/09/2023;Exist 500mg;X-ray;Critical
+500;13/11/2024;Yes 500mg;MRI;Critical
+497;09/04/2020;Play 500mg;ECG;Abnormal
+235;20/07/2021;Miss 500mg;X-ray;Critical
+72;17/06/2021;Bed 500mg;MRI;Abnormal
+442;13/08/2023;Black 500mg;X-ray;Abnormal
+385;10/01/2025;Safe 500mg;Blood Test;Abnormal
+162;09/07/2024;Bad 500mg;X-ray;Normal
+459;24/10/2020;Draw 500mg;X-ray;Critical
+208;11/03/2021;Property 500mg;MRI;Abnormal
+275;01/10/2023;Say 500mg;Urinalysis;Abnormal
+243;27/05/2020;Section 500mg;Urinalysis;Critical
+379;19/02/2022;Again 500mg;CT Scan;Normal
+43;08/06/2021;Daughter 500mg;ECG;Critical
+313;13/10/2020;Right 500mg;X-ray;Abnormal
+380;30/03/2021;Card 500mg;X-ray;Normal
+125;12/11/2021;Be 500mg;ECG;Critical
+86;05/12/2021;Others 500mg;Urinalysis;Critical
+326;20/05/2022;On 500mg;Blood Test;Abnormal
+352;02/03/2021;Born 500mg;X-ray;Abnormal
+121;13/06/2024;Adult 500mg;X-ray;Normal
+229;09/09/2024;Subject 500mg;ECG;Abnormal
+259;18/06/2020;Sing 500mg;Blood Test;Critical
+443;22/08/2023;Name 500mg;Urinalysis;Critical
+324;15/11/2021;Read 500mg;MRI;Normal
+255;17/06/2022;Eye 500mg;Blood Test;Normal
+70;15/09/2024;About 500mg;X-ray;Normal
+241;04/10/2022;Yeah 500mg;X-ray;Normal
+416;09/12/2024;Strong 500mg;X-ray;Normal
+155;16/01/2021;Machine 500mg;MRI;Normal
+120;15/01/2024;Own 500mg;CT Scan;Critical
+39;30/04/2024;Strong 500mg;CT Scan;Abnormal
+65;13/05/2020;Ten 500mg;MRI;Normal
+330;10/02/2022;Think 500mg;Urinalysis;Critical
+384;21/10/2024;Any 500mg;ECG;Abnormal
+155;20/07/2020;War 500mg;CT Scan;Abnormal
+198;16/09/2021;Name 500mg;Blood Test;Normal
+396;07/07/2024;Its 500mg;Urinalysis;Abnormal
+372;31/05/2023;Manager 500mg;Urinalysis;Abnormal
+284;27/02/2023;Marriage 500mg;ECG;Critical
+273;06/03/2024;Contain 500mg;MRI;Normal
+11;13/02/2022;Seek 500mg;CT Scan;Normal
+286;18/10/2022;Leave 500mg;Blood Test;Critical
+356;29/09/2021;Moment 500mg;Blood Test;Abnormal
+414;10/05/2020;Race 500mg;Urinalysis;Abnormal
+458;20/01/2025;Want 500mg;Urinalysis;Normal
+251;05/09/2021;While 500mg;MRI;Critical
+429;14/02/2023;Campaign 500mg;X-ray;Abnormal
+102;14/03/2022;Success 500mg;CT Scan;Normal
+469;16/12/2023;Chair 500mg;CT Scan;Critical
+490;23/09/2023;Measure 500mg;Blood Test;Normal
+373;15/03/2023;Until 500mg;Blood Test;Abnormal
+80;25/04/2023;Right 500mg;ECG;Abnormal
+246;05/06/2024;Increase 500mg;Blood Test;Critical
+456;04/11/2021;Blue 500mg;X-ray;Normal
+469;12/11/2022;Year 500mg;Blood Test;Abnormal
+29;19/12/2024;Local 500mg;Urinalysis;Critical
+400;01/01/2023;Fire 500mg;X-ray;Abnormal
+100;20/09/2022;Director 500mg;ECG;Normal
+28;19/08/2022;Child 500mg;Blood Test;Critical
+481;26/10/2022;Produce 500mg;ECG;Normal
+466;17/02/2021;Vote 500mg;CT Scan;Critical
+389;17/01/2025;Billion 500mg;MRI;Abnormal
+105;04/07/2023;Including 500mg;CT Scan;Normal
+375;14/01/2024;Interview 500mg;CT Scan;Abnormal
+398;26/09/2024;Best 500mg;ECG;Critical
+448;17/06/2024;Fall 500mg;X-ray;Abnormal
+389;03/03/2022;Candidate 500mg;ECG;Abnormal
+50;01/09/2024;Us 500mg;MRI;Critical
+327;13/05/2022;Teach 500mg;ECG;Critical
+317;09/12/2020;Fear 500mg;CT Scan;Abnormal
+479;20/09/2022;Common 500mg;Urinalysis;Abnormal
+142;25/11/2020;Memory 500mg;MRI;Abnormal
+475;22/12/2024;Team 500mg;X-ray;Abnormal
+424;13/03/2024;Again 500mg;MRI;Abnormal
+447;19/01/2024;Standard 500mg;Blood Test;Critical
+45;05/10/2023;Part 500mg;CT Scan;Critical
+88;18/09/2020;As 500mg;Urinalysis;Abnormal
+110;15/05/2024;As 500mg;MRI;Abnormal
+107;24/04/2023;Baby 500mg;MRI;Critical
+315;27/01/2023;Will 500mg;ECG;Critical
+106;13/07/2020;Despite 500mg;CT Scan;Abnormal
+385;05/02/2022;Do 500mg;ECG;Abnormal
+94;25/06/2020;Policy 500mg;MRI;Critical
+227;01/04/2024;Hospital 500mg;Blood Test;Normal
+35;04/05/2023;Dream 500mg;CT Scan;Abnormal
+250;22/02/2023;Such 500mg;Blood Test;Abnormal
+285;07/10/2023;Hard 500mg;Blood Test;Normal
+319;07/06/2022;Item 500mg;MRI;Abnormal
+141;29/12/2021;Likely 500mg;CT Scan;Abnormal
+430;24/09/2021;Month 500mg;ECG;Abnormal
+436;02/05/2021;Read 500mg;CT Scan;Normal
+24;02/07/2021;Sign 500mg;MRI;Abnormal
+193;15/06/2024;Water 500mg;MRI;Abnormal
+195;03/10/2021;Son 500mg;CT Scan;Abnormal
+434;29/02/2024;Gun 500mg;ECG;Abnormal
+71;26/06/2024;Agency 500mg;MRI;Critical
+376;07/10/2021;Painting 500mg;CT Scan;Critical
+182;31/01/2023;Along 500mg;MRI;Critical
+221;30/11/2020;Chair 500mg;MRI;Normal
+22;13/02/2021;Apply 500mg;X-ray;Normal
+253;23/03/2024;Grow 500mg;MRI;Normal
+52;07/02/2022;Myself 500mg;CT Scan;Normal
+89;17/06/2020;Daughter 500mg;Blood Test;Abnormal
+277;29/05/2023;Full 500mg;ECG;Abnormal
+103;08/02/2025;Check 500mg;MRI;Normal
+431;22/09/2024;Himself 500mg;Urinalysis;Normal
+63;02/05/2024;Window 500mg;CT Scan;Critical
+96;22/04/2024;Hope 500mg;Urinalysis;Critical
+203;21/09/2023;Town 500mg;Urinalysis;Abnormal
+123;19/10/2023;Book 500mg;CT Scan;Abnormal
+459;16/03/2024;Watch 500mg;MRI;Normal
+65;28/12/2024;Professor 500mg;MRI;Abnormal
+337;28/09/2023;Keep 500mg;Urinalysis;Abnormal
+217;03/01/2025;When 500mg;MRI;Abnormal
+143;13/10/2021;Family 500mg;Urinalysis;Normal
+283;12/10/2022;Piece 500mg;X-ray;Abnormal
+351;02/05/2020;Pay 500mg;X-ray;Critical
+21;18/10/2023;Prove 500mg;Urinalysis;Critical
+322;03/09/2023;Another 500mg;Blood Test;Abnormal
+469;14/09/2020;Particularly 500mg;Blood Test;Normal
+216;19/05/2023;Its 500mg;ECG;Normal
+373;28/09/2023;Product 500mg;X-ray;Abnormal
+441;22/10/2023;Tax 500mg;X-ray;Abnormal
+265;31/07/2024;Back 500mg;MRI;Abnormal
+273;21/02/2024;Audience 500mg;Urinalysis;Normal
+119;23/02/2021;Responsibility 500mg;ECG;Critical
+296;04/01/2023;Moment 500mg;CT Scan;Abnormal
+237;24/02/2023;Election 500mg;X-ray;Critical
+312;22/04/2024;Job 500mg;X-ray;Abnormal
+19;22/11/2022;Probably 500mg;X-ray;Critical
+326;26/08/2024;Medical 500mg;ECG;Abnormal
+316;26/11/2022;Order 500mg;MRI;Critical
+397;30/06/2022;Military 500mg;ECG;Normal
+246;20/12/2020;Pressure 500mg;MRI;Normal
+361;13/12/2020;Artist 500mg;Urinalysis;Normal
+376;25/07/2023;Up 500mg;ECG;Critical
+101;10/03/2022;Line 500mg;MRI;Normal
+112;06/06/2022;Music 500mg;Urinalysis;Critical
+369;19/08/2023;Worker 500mg;ECG;Normal
+460;03/05/2023;On 500mg;CT Scan;Normal
+230;21/11/2020;Area 500mg;Urinalysis;Critical
+22;25/05/2022;Structure 500mg;CT Scan;Abnormal
+233;03/11/2022;Eat 500mg;MRI;Critical
+82;22/03/2021;Minute 500mg;Blood Test;Abnormal
+14;06/04/2022;Cold 500mg;ECG;Abnormal
+128;23/09/2022;Brother 500mg;Urinalysis;Normal
+336;24/05/2022;Raise 500mg;CT Scan;Critical
+7;21/11/2020;Book 500mg;Blood Test;Normal
+75;13/12/2022;Simple 500mg;Urinalysis;Normal
+483;05/07/2021;Drop 500mg;ECG;Normal
+357;01/10/2020;Daughter 500mg;Urinalysis;Critical
+203;10/07/2023;Commercial 500mg;X-ray;Critical
+410;03/07/2020;Spring 500mg;X-ray;Critical
+115;21/09/2024;Same 500mg;Urinalysis;Normal
+265;02/05/2023;Town 500mg;Blood Test;Normal
+85;30/09/2021;White 500mg;X-ray;Abnormal
+194;11/01/2022;Wonder 500mg;Urinalysis;Abnormal
+462;10/01/2022;Often 500mg;X-ray;Critical
+2;28/08/2023;Performance 500mg;CT Scan;Abnormal
+173;26/02/2021;Hundred 500mg;CT Scan;Normal
+453;04/09/2022;Sister 500mg;ECG;Critical
+174;30/08/2020;Must 500mg;X-ray;Critical
+230;01/04/2022;Bad 500mg;Urinalysis;Critical
+356;17/11/2023;Table 500mg;Blood Test;Abnormal
+106;17/05/2023;Simply 500mg;Blood Test;Critical
+308;28/02/2021;Several 500mg;CT Scan;Abnormal
+8;10/11/2023;Notice 500mg;Urinalysis;Abnormal
+35;27/05/2023;Choose 500mg;Blood Test;Critical
+84;01/12/2021;Organization 500mg;CT Scan;Critical
+126;08/09/2024;Art 500mg;X-ray;Normal
+426;02/02/2022;Camera 500mg;Blood Test;Critical
+74;19/10/2022;Break 500mg;X-ray;Abnormal
+9;16/04/2024;Continue 500mg;Blood Test;Abnormal
+408;18/04/2022;This 500mg;CT Scan;Abnormal
+304;17/08/2020;Look 500mg;CT Scan;Critical
+325;13/08/2024;Stay 500mg;CT Scan;Abnormal
+199;24/05/2022;Natural 500mg;CT Scan;Critical
+458;11/10/2024;Inside 500mg;MRI;Critical
+420;18/01/2023;Executive 500mg;ECG;Normal
+190;07/06/2022;High 500mg;ECG;Abnormal
+219;17/09/2020;Explain 500mg;Blood Test;Critical
+326;07/08/2024;Stuff 500mg;Blood Test;Critical
+205;22/08/2022;Expert 500mg;CT Scan;Abnormal
+114;31/08/2021;Government 500mg;Urinalysis;Critical
+198;29/01/2025;Lead 500mg;CT Scan;Critical
+74;25/05/2024;Radio 500mg;MRI;Normal
+205;26/05/2020;History 500mg;CT Scan;Abnormal
+434;05/01/2023;Member 500mg;CT Scan;Normal
+219;15/09/2024;Quickly 500mg;ECG;Abnormal
+5;05/09/2021;Natural 500mg;Urinalysis;Critical
+36;15/07/2024;Home 500mg;Urinalysis;Normal
+382;22/12/2024;Decide 500mg;CT Scan;Critical
+369;11/09/2022;Represent 500mg;ECG;Normal
+358;05/12/2021;Clear 500mg;MRI;Abnormal
+459;19/09/2022;Performance 500mg;MRI;Normal
+380;31/07/2024;High 500mg;Urinalysis;Abnormal
+423;08/11/2023;Point 500mg;MRI;Abnormal
+210;13/05/2024;Other 500mg;Urinalysis;Abnormal
+140;23/11/2022;Foreign 500mg;MRI;Abnormal
+188;13/08/2023;More 500mg;X-ray;Critical
+301;03/02/2023;Tough 500mg;ECG;Critical
+175;06/02/2025;Effect 500mg;Urinalysis;Normal
+178;30/04/2024;Throw 500mg;ECG;Abnormal
+353;26/04/2024;Light 500mg;ECG;Abnormal
+97;29/05/2020;Everybody 500mg;Blood Test;Normal
+133;24/08/2023;Buy 500mg;ECG;Abnormal
+338;16/09/2021;Group 500mg;ECG;Critical
+453;29/09/2024;Born 500mg;Blood Test;Normal
+232;28/12/2024;Floor 500mg;MRI;Abnormal
+100;15/12/2020;Suddenly 500mg;ECG;Abnormal
+279;10/01/2025;Bit 500mg;ECG;Normal
+82;15/10/2024;Kitchen 500mg;CT Scan;Abnormal
+163;28/11/2021;Along 500mg;Blood Test;Critical
+310;30/10/2022;Difficult 500mg;ECG;Normal
+329;17/10/2021;Big 500mg;X-ray;Normal
+176;13/10/2023;Bring 500mg;Blood Test;Critical
+376;11/12/2023;As 500mg;Urinalysis;Critical
+207;25/11/2024;Realize 500mg;Blood Test;Critical
+412;29/01/2021;Week 500mg;MRI;Abnormal
+320;09/08/2023;Letter 500mg;X-ray;Normal
+462;01/11/2024;Nation 500mg;MRI;Critical
+162;09/02/2021;Democrat 500mg;CT Scan;Critical
+282;01/10/2024;Full 500mg;Urinalysis;Abnormal
+196;20/11/2023;According 500mg;CT Scan;Critical
+329;14/02/2024;Letter 500mg;X-ray;Critical
+123;23/07/2022;Risk 500mg;Urinalysis;Critical
+27;19/06/2021;Cover 500mg;Blood Test;Abnormal
+124;24/07/2023;View 500mg;MRI;Normal
+150;19/09/2021;Door 500mg;Blood Test;Abnormal
+466;29/03/2020;Mention 500mg;MRI;Normal
+498;14/12/2020;Fall 500mg;ECG;Normal
+447;07/09/2022;Entire 500mg;CT Scan;Normal
+488;25/03/2021;Also 500mg;X-ray;Normal
+373;07/02/2025;Road 500mg;Urinalysis;Abnormal
+302;08/02/2021;Guess 500mg;Urinalysis;Critical
+6;16/10/2022;Discuss 500mg;Urinalysis;Normal
+442;16/02/2021;Six 500mg;Blood Test;Normal
+340;02/07/2023;Happen 500mg;X-ray;Critical
+110;08/06/2022;As 500mg;Blood Test;Abnormal
+105;22/04/2024;Movie 500mg;X-ray;Normal
+294;21/06/2023;Up 500mg;Blood Test;Critical
+206;18/01/2024;Create 500mg;Urinalysis;Abnormal
+500;06/06/2022;Spend 500mg;CT Scan;Normal
+165;26/06/2021;Season 500mg;Urinalysis;Critical
+427;08/01/2023;Language 500mg;Urinalysis;Abnormal
+91;24/04/2022;Also 500mg;Urinalysis;Critical
+368;30/05/2024;Thing 500mg;MRI;Abnormal
+493;09/09/2023;Protect 500mg;X-ray;Critical
+200;07/10/2020;Whom 500mg;Urinalysis;Critical
+75;16/01/2021;News 500mg;Urinalysis;Critical
+227;14/12/2020;Magazine 500mg;MRI;Normal
+334;17/09/2024;Seem 500mg;Blood Test;Critical
+373;09/03/2021;Agency 500mg;ECG;Normal
+427;11/06/2024;I 500mg;Blood Test;Normal
+389;11/04/2022;Should 500mg;ECG;Abnormal
+121;13/12/2022;Prepare 500mg;Urinalysis;Critical
+218;21/07/2020;Watch 500mg;Urinalysis;Abnormal
+5;23/10/2021;End 500mg;X-ray;Normal
+370;06/11/2022;Item 500mg;X-ray;Critical
+410;21/02/2021;Economic 500mg;X-ray;Critical
+144;10/08/2023;Debate 500mg;X-ray;Critical
+385;25/11/2024;Agreement 500mg;Blood Test;Abnormal
+341;12/12/2020;Individual 500mg;X-ray;Abnormal
+47;28/03/2023;Pay 500mg;X-ray;Critical
+484;20/09/2023;Sense 500mg;MRI;Normal
+404;06/06/2023;Almost 500mg;MRI;Abnormal
+469;24/04/2024;Others 500mg;Blood Test;Normal
+77;22/10/2023;Suddenly 500mg;MRI;Normal
+467;08/08/2020;Blue 500mg;CT Scan;Abnormal
+360;30/05/2022;Responsibility 500mg;Blood Test;Normal
+413;10/11/2021;Once 500mg;X-ray;Critical
+259;19/11/2020;Reveal 500mg;X-ray;Normal
+498;17/06/2022;Have 500mg;CT Scan;Abnormal
+485;30/08/2020;Cold 500mg;X-ray;Normal
+193;01/11/2022;Management 500mg;ECG;Normal
+322;25/03/2024;Organization 500mg;Blood Test;Abnormal
+114;27/03/2024;Surface 500mg;Urinalysis;Normal
+170;03/01/2021;Fight 500mg;Urinalysis;Critical
+69;17/05/2022;Speak 500mg;Urinalysis;Normal
+248;18/07/2023;Go 500mg;MRI;Abnormal
+393;05/03/2024;Like 500mg;Urinalysis;Abnormal
+122;26/07/2021;Nothing 500mg;MRI;Normal
+99;05/09/2024;Plant 500mg;MRI;Normal
+365;19/10/2024;Standard 500mg;ECG;Critical
+206;17/09/2020;Represent 500mg;Urinalysis;Normal
+279;27/03/2024;Goal 500mg;X-ray;Normal
+409;13/04/2024;Sometimes 500mg;Blood Test;Abnormal
+296;10/10/2022;Camera 500mg;CT Scan;Abnormal
+318;27/11/2024;How 500mg;ECG;Critical
+181;15/05/2024;Great 500mg;Urinalysis;Critical
+244;19/09/2020;Minute 500mg;MRI;Critical
+53;14/06/2023;Computer 500mg;X-ray;Abnormal
+350;28/01/2025;Let 500mg;ECG;Critical
+482;19/07/2023;According 500mg;ECG;Critical
+415;04/06/2023;Support 500mg;MRI;Critical
+77;03/02/2022;Serious 500mg;X-ray;Abnormal
+12;24/10/2020;Level 500mg;MRI;Critical
+480;06/11/2024;Might 500mg;Urinalysis;Abnormal
+230;08/06/2020;Into 500mg;CT Scan;Normal
+440;21/11/2022;Road 500mg;ECG;Abnormal
+229;22/04/2022;Today 500mg;MRI;Normal
+357;19/02/2022;Class 500mg;ECG;Abnormal
+376;17/01/2024;Forward 500mg;Urinalysis;Critical
+167;07/11/2024;My 500mg;ECG;Abnormal
+272;01/09/2024;Window 500mg;CT Scan;Critical
+492;09/06/2023;Energy 500mg;Blood Test;Critical
+318;20/05/2023;Challenge 500mg;CT Scan;Critical
+467;23/12/2023;Return 500mg;Blood Test;Normal
+40;12/04/2023;Image 500mg;X-ray;Critical
+122;13/09/2022;Rich 500mg;Urinalysis;Critical
+492;17/03/2024;Continue 500mg;MRI;Normal
+129;05/06/2022;Forward 500mg;Urinalysis;Critical
+417;27/11/2020;Over 500mg;MRI;Abnormal
+428;17/05/2022;Assume 500mg;Urinalysis;Normal
+284;26/01/2023;Drive 500mg;MRI;Normal
+14;21/11/2021;Maintain 500mg;CT Scan;Normal
+343;22/07/2024;North 500mg;X-ray;Critical
+406;06/08/2020;Rise 500mg;ECG;Abnormal
+52;22/12/2020;Professor 500mg;CT Scan;Normal
+399;17/01/2023;Whose 500mg;Urinalysis;Abnormal
+30;14/08/2023;Quickly 500mg;MRI;Normal
+155;30/09/2024;Maintain 500mg;MRI;Normal
+296;28/01/2022;Data 500mg;X-ray;Normal
+81;03/03/2022;Prevent 500mg;MRI;Normal
+142;18/06/2024;Surface 500mg;CT Scan;Normal
+417;17/12/2020;Adult 500mg;MRI;Abnormal
+408;13/06/2023;Help 500mg;Blood Test;Normal
+211;24/02/2023;Same 500mg;X-ray;Normal
+237;20/09/2020;Middle 500mg;Urinalysis;Normal
+289;08/09/2022;Too 500mg;ECG;Abnormal
+445;20/02/2022;Fall 500mg;MRI;Normal
+12;24/10/2022;Surface 500mg;Blood Test;Abnormal
+246;17/07/2022;Purpose 500mg;Blood Test;Abnormal
+277;22/08/2023;President 500mg;Blood Test;Abnormal
+430;12/11/2022;Bit 500mg;X-ray;Critical
+307;02/04/2022;Carry 500mg;ECG;Normal
+11;08/08/2021;Maintain 500mg;MRI;Abnormal
+356;26/06/2021;Other 500mg;Blood Test;Normal
+434;02/10/2020;Plan 500mg;ECG;Critical
+21;23/01/2024;Wonder 500mg;Blood Test;Normal
+233;13/10/2021;Present 500mg;ECG;Critical
+381;09/08/2023;Treat 500mg;ECG;Critical
+484;02/12/2024;Former 500mg;Urinalysis;Abnormal
+52;19/04/2022;About 500mg;CT Scan;Abnormal
+87;02/06/2022;Over 500mg;Blood Test;Normal
+456;04/05/2022;Worker 500mg;Urinalysis;Normal
+173;15/11/2020;Recognize 500mg;CT Scan;Critical
+461;07/07/2021;Current 500mg;Urinalysis;Abnormal
+403;17/01/2025;Several 500mg;MRI;Normal
+272;19/09/2024;Notice 500mg;CT Scan;Critical
+140;30/01/2021;Including 500mg;ECG;Critical
+353;06/07/2020;Trip 500mg;X-ray;Normal
+277;02/12/2022;His 500mg;Blood Test;Abnormal
+354;04/12/2022;Level 500mg;X-ray;Normal
+56;11/01/2021;Down 500mg;CT Scan;Abnormal
+218;19/10/2024;Hear 500mg;Blood Test;Abnormal
+408;26/10/2024;Teach 500mg;X-ray;Normal
+474;22/04/2022;Foreign 500mg;MRI;Normal
+383;16/03/2022;Get 500mg;MRI;Critical
+147;27/11/2021;Suffer 500mg;X-ray;Normal
+378;22/07/2021;Model 500mg;ECG;Critical
+418;16/06/2023;Major 500mg;Blood Test;Critical
+105;06/09/2024;Half 500mg;Blood Test;Normal
+57;11/08/2021;Degree 500mg;MRI;Critical
+462;18/08/2020;Report 500mg;Urinalysis;Critical
+438;03/04/2020;Tax 500mg;X-ray;Critical
+184;03/05/2022;Area 500mg;MRI;Normal
+120;10/10/2020;Discover 500mg;Urinalysis;Critical
+136;30/06/2024;Nice 500mg;CT Scan;Normal
+164;12/08/2023;Wrong 500mg;X-ray;Abnormal
+472;18/07/2021;During 500mg;X-ray;Normal
+398;01/04/2020;Wide 500mg;Blood Test;Critical
+251;05/01/2023;Case 500mg;Blood Test;Normal
+196;22/11/2021;Sing 500mg;CT Scan;Abnormal
+296;29/07/2021;Choose 500mg;Urinalysis;Normal
+46;24/02/2021;Exist 500mg;Urinalysis;Critical
+97;08/11/2021;Social 500mg;X-ray;Normal
+478;01/05/2020;Shoulder 500mg;CT Scan;Normal
+379;29/01/2021;Computer 500mg;MRI;Critical
+181;12/09/2023;Baby 500mg;ECG;Abnormal
+350;19/04/2020;Seem 500mg;CT Scan;Abnormal
+237;05/05/2022;Rich 500mg;X-ray;Critical
+267;16/03/2020;Light 500mg;Urinalysis;Critical
+307;05/12/2024;Consider 500mg;X-ray;Normal
+287;04/10/2023;Skin 500mg;Blood Test;Abnormal
+474;12/11/2022;However 500mg;Urinalysis;Normal
+30;25/03/2021;Chance 500mg;Blood Test;Critical
+164;11/05/2023;Election 500mg;X-ray;Abnormal
+116;06/06/2024;He 500mg;Blood Test;Normal
+400;03/11/2023;Politics 500mg;CT Scan;Abnormal
+206;14/03/2021;Field 500mg;ECG;Normal
+77;27/05/2024;Simply 500mg;X-ray;Normal
+163;08/09/2022;Cover 500mg;Urinalysis;Abnormal
+253;08/09/2021;Street 500mg;MRI;Abnormal
+297;16/09/2020;Series 500mg;CT Scan;Abnormal
+376;01/01/2024;Office 500mg;Urinalysis;Abnormal
+315;28/01/2025;Trip 500mg;Blood Test;Abnormal
+39;22/09/2022;Provide 500mg;Blood Test;Critical
+495;07/10/2022;Analysis 500mg;X-ray;Abnormal
+1;24/07/2021;Fight 500mg;Urinalysis;Normal
+468;17/12/2021;Top 500mg;ECG;Abnormal
+141;22/08/2022;Either 500mg;ECG;Critical
+279;16/04/2023;Situation 500mg;CT Scan;Abnormal
+244;30/06/2020;Ahead 500mg;X-ray;Critical
+302;20/03/2024;Security 500mg;X-ray;Normal
+367;20/03/2020;Father 500mg;MRI;Normal
+237;18/04/2023;Thousand 500mg;MRI;Normal
+497;11/08/2020;Religious 500mg;X-ray;Critical
+156;19/11/2023;Music 500mg;CT Scan;Critical
+18;12/07/2022;Than 500mg;ECG;Critical
+387;15/03/2020;Specific 500mg;X-ray;Critical
+90;19/09/2020;Follow 500mg;ECG;Abnormal
+357;25/01/2023;Either 500mg;ECG;Abnormal
+46;23/02/2024;Region 500mg;Blood Test;Normal
+493;17/08/2022;Describe 500mg;MRI;Abnormal
+347;13/05/2024;Food 500mg;ECG;Abnormal
+130;05/04/2021;Subject 500mg;Urinalysis;Normal
+2;17/10/2023;Let 500mg;X-ray;Abnormal
+11;19/07/2024;Even 500mg;CT Scan;Abnormal
+499;27/02/2022;Book 500mg;X-ray;Critical
+240;14/07/2023;Throw 500mg;MRI;Critical
+217;04/02/2023;Set 500mg;ECG;Critical
+366;20/07/2022;Simply 500mg;Blood Test;Normal
+460;17/01/2024;Thank 500mg;Urinalysis;Critical
+13;04/11/2021;Kid 500mg;Urinalysis;Critical
+20;15/12/2020;Determine 500mg;Urinalysis;Normal
+199;04/03/2024;Minute 500mg;Blood Test;Critical
+237;01/06/2021;Capital 500mg;ECG;Normal
+179;15/04/2022;Recent 500mg;ECG;Critical
+353;10/03/2022;As 500mg;ECG;Abnormal
+171;21/10/2021;Institution 500mg;X-ray;Normal
+287;09/01/2024;Class 500mg;X-ray;Critical
+295;11/04/2021;Group 500mg;ECG;Critical
+188;29/07/2024;Others 500mg;Urinalysis;Abnormal
+271;06/05/2022;Maybe 500mg;Urinalysis;Abnormal
+389;17/08/2022;Financial 500mg;X-ray;Normal
+457;03/03/2024;College 500mg;CT Scan;Critical
+161;25/02/2023;Plant 500mg;Blood Test;Abnormal
+87;22/02/2022;Month 500mg;Urinalysis;Critical
+17;25/10/2023;Present 500mg;MRI;Critical
+276;12/11/2022;Responsibility 500mg;CT Scan;Critical
+160;10/09/2022;Such 500mg;CT Scan;Normal
+459;15/12/2022;Five 500mg;MRI;Abnormal
+312;08/11/2022;Memory 500mg;Blood Test;Abnormal
+135;25/10/2022;Huge 500mg;ECG;Abnormal
+493;05/06/2020;Outside 500mg;X-ray;Normal
+154;28/02/2021;Reflect 500mg;Blood Test;Normal
+467;17/02/2020;Break 500mg;MRI;Abnormal
+386;03/04/2022;Resource 500mg;ECG;Normal
+48;12/11/2021;Music 500mg;CT Scan;Abnormal
+431;19/09/2024;Enough 500mg;Blood Test;Normal
+50;29/07/2020;Big 500mg;MRI;Abnormal
+353;19/03/2022;Partner 500mg;ECG;Normal
+164;10/06/2021;Window 500mg;MRI;Abnormal
+247;18/07/2021;Democratic 500mg;Urinalysis;Abnormal
+146;17/12/2023;Evening 500mg;CT Scan;Critical
+136;26/08/2023;Catch 500mg;MRI;Abnormal
+17;05/10/2024;Safe 500mg;MRI;Critical
+392;31/10/2022;Other 500mg;X-ray;Normal
+401;11/05/2024;Floor 500mg;ECG;Critical
+264;09/07/2022;Special 500mg;ECG;Normal
+118;03/11/2022;Or 500mg;Blood Test;Abnormal
+380;09/01/2023;Social 500mg;Urinalysis;Abnormal
+60;13/06/2024;During 500mg;CT Scan;Abnormal
+346;01/04/2022;Each 500mg;ECG;Critical
+48;19/09/2021;Bag 500mg;Blood Test;Critical
+320;17/10/2022;Among 500mg;Blood Test;Normal
+465;27/11/2022;Address 500mg;MRI;Normal
+99;12/06/2023;Rich 500mg;Urinalysis;Normal
+252;19/03/2022;Firm 500mg;Urinalysis;Critical
+58;20/05/2023;Spend 500mg;ECG;Normal
+434;28/01/2023;Seem 500mg;X-ray;Abnormal
+226;25/08/2020;In 500mg;CT Scan;Critical
+265;12/07/2020;Side 500mg;Urinalysis;Critical
+25;07/11/2022;No 500mg;X-ray;Normal
+488;05/03/2024;Body 500mg;CT Scan;Abnormal
+290;14/09/2023;Also 500mg;MRI;Critical
+336;11/03/2022;Travel 500mg;Blood Test;Abnormal
+243;06/01/2022;Boy 500mg;Blood Test;Abnormal
+448;21/07/2022;Including 500mg;Blood Test;Abnormal
+394;11/01/2025;Can 500mg;MRI;Critical
+468;26/12/2020;Chance 500mg;MRI;Critical
+143;27/08/2024;Street 500mg;Urinalysis;Critical
+265;25/09/2022;Man 500mg;ECG;Critical
+213;15/10/2020;This 500mg;X-ray;Normal
+399;28/08/2024;Radio 500mg;Urinalysis;Normal
+364;11/01/2024;Agree 500mg;ECG;Normal
+186;05/08/2021;Against 500mg;CT Scan;Abnormal
+256;25/12/2021;Doctor 500mg;Blood Test;Critical
+240;15/10/2022;Debate 500mg;Urinalysis;Normal
+10;01/06/2023;Develop 500mg;MRI;Normal
+445;30/03/2022;Realize 500mg;Blood Test;Normal
+396;14/04/2024;Crime 500mg;ECG;Normal
+488;16/10/2022;Bank 500mg;CT Scan;Abnormal
+302;09/02/2025;Your 500mg;Urinalysis;Abnormal
+11;05/12/2021;Worker 500mg;ECG;Abnormal
+137;03/06/2020;Evidence 500mg;ECG;Abnormal
+138;08/09/2021;Turn 500mg;CT Scan;Abnormal
+26;07/11/2022;Manage 500mg;MRI;Normal
+288;05/03/2023;Forward 500mg;CT Scan;Normal
+393;30/09/2023;Like 500mg;X-ray;Critical
+267;21/01/2021;Fine 500mg;Blood Test;Critical
+408;24/02/2024;Arm 500mg;ECG;Normal
+196;29/09/2024;Whose 500mg;Blood Test;Normal
+343;29/01/2024;Long 500mg;Urinalysis;Abnormal
+472;15/02/2020;Increase 500mg;CT Scan;Critical
+74;13/03/2024;Piece 500mg;CT Scan;Abnormal
+24;18/10/2020;East 500mg;MRI;Normal
+257;30/12/2024;Respond 500mg;Urinalysis;Normal
+468;17/09/2022;Wife 500mg;Urinalysis;Critical
+234;09/04/2020;Top 500mg;ECG;Abnormal
+166;30/03/2023;Sister 500mg;ECG;Abnormal
+91;02/03/2024;Despite 500mg;X-ray;Critical
+36;25/03/2021;Without 500mg;X-ray;Normal
+65;15/10/2022;Fish 500mg;ECG;Abnormal
+353;01/04/2021;Lawyer 500mg;Blood Test;Critical
+24;01/11/2020;Always 500mg;ECG;Critical
+420;20/09/2023;Tend 500mg;X-ray;Abnormal
+463;02/09/2023;Vote 500mg;Blood Test;Normal
+312;10/08/2023;Other 500mg;MRI;Normal
+145;11/05/2023;Possible 500mg;MRI;Normal
+292;30/07/2020;Type 500mg;X-ray;Abnormal
+289;22/09/2023;Quite 500mg;Blood Test;Abnormal
+490;22/09/2021;Election 500mg;MRI;Critical
+84;09/02/2021;Enjoy 500mg;Urinalysis;Abnormal
+325;09/07/2023;Cell 500mg;ECG;Abnormal
+289;18/08/2024;Nice 500mg;ECG;Critical
+158;15/03/2023;Make 500mg;X-ray;Critical
+325;08/03/2024;Economy 500mg;MRI;Normal
+73;28/02/2021;Too 500mg;Blood Test;Critical
+44;01/05/2022;Husband 500mg;X-ray;Critical
+446;13/08/2021;Effort 500mg;ECG;Normal
+17;17/09/2022;Really 500mg;Blood Test;Abnormal
+319;12/02/2023;Officer 500mg;CT Scan;Normal
+260;06/02/2025;Finally 500mg;Blood Test;Abnormal
+98;12/07/2021;Ever 500mg;Urinalysis;Abnormal
+496;18/11/2022;Design 500mg;CT Scan;Critical
+358;30/12/2022;General 500mg;Urinalysis;Abnormal
+262;10/06/2021;Middle 500mg;X-ray;Critical
+420;07/11/2020;Game 500mg;X-ray;Abnormal
+382;23/01/2025;Do 500mg;X-ray;Abnormal
+137;19/02/2024;Political 500mg;ECG;Critical
+384;29/03/2023;Move 500mg;X-ray;Normal
+430;18/08/2021;Much 500mg;Urinalysis;Normal
+489;23/03/2022;Develop 500mg;CT Scan;Abnormal
+497;22/10/2021;Campaign 500mg;MRI;Normal
+225;24/03/2021;Worry 500mg;MRI;Critical
+387;09/11/2020;Test 500mg;MRI;Critical
+336;06/11/2023;First 500mg;Urinalysis;Abnormal
+102;20/02/2022;Family 500mg;ECG;Critical
+232;21/05/2022;Compare 500mg;X-ray;Critical
+268;22/01/2022;Likely 500mg;Urinalysis;Abnormal
+35;25/07/2020;Difficult 500mg;CT Scan;Normal
+432;14/05/2024;Exist 500mg;MRI;Critical
+129;08/03/2021;Decision 500mg;CT Scan;Normal
+8;06/09/2024;Ball 500mg;CT Scan;Abnormal
+218;10/01/2025;Accept 500mg;CT Scan;Critical
+169;01/01/2021;Let 500mg;Urinalysis;Abnormal
+337;16/07/2023;Impact 500mg;ECG;Abnormal
+87;13/06/2022;Before 500mg;Blood Test;Critical
+342;17/07/2024;Air 500mg;Urinalysis;Critical
+382;25/02/2024;East 500mg;Urinalysis;Normal
+237;22/10/2023;Put 500mg;Blood Test;Normal
+426;20/09/2020;Spend 500mg;CT Scan;Abnormal
+115;10/08/2022;Clearly 500mg;ECG;Abnormal
+356;11/02/2023;Area 500mg;MRI;Abnormal
+166;10/04/2020;Expert 500mg;CT Scan;Normal
+216;02/06/2024;Become 500mg;MRI;Abnormal
+297;14/04/2020;Improve 500mg;Blood Test;Abnormal
+399;16/12/2021;Nature 500mg;Blood Test;Abnormal
+375;05/08/2020;Before 500mg;MRI;Abnormal
+386;15/06/2024;Important 500mg;X-ray;Normal
+37;12/06/2021;Window 500mg;ECG;Normal
+203;13/06/2020;Determine 500mg;X-ray;Normal
+110;16/05/2024;While 500mg;ECG;Critical
+453;11/12/2021;Voice 500mg;MRI;Normal
+437;06/07/2020;Send 500mg;X-ray;Normal
+430;11/02/2023;Short 500mg;CT Scan;Normal
+78;03/06/2021;Sometimes 500mg;X-ray;Critical
+238;18/02/2022;Plan 500mg;Urinalysis;Critical
+428;17/07/2022;Scene 500mg;CT Scan;Normal
+105;08/12/2023;Cut 500mg;X-ray;Abnormal
+326;26/05/2022;Every 500mg;CT Scan;Normal
+492;06/06/2022;Painting 500mg;MRI;Abnormal
+209;08/06/2023;Line 500mg;ECG;Abnormal
+146;06/12/2022;A 500mg;CT Scan;Abnormal
+188;14/03/2020;Administration 500mg;Urinalysis;Normal
+320;02/09/2024;Consider 500mg;MRI;Critical
+88;05/03/2024;Voice 500mg;ECG;Normal
+460;22/02/2022;Event 500mg;ECG;Normal
+267;11/06/2022;Environmental 500mg;Blood Test;Normal
+355;31/12/2021;Lawyer 500mg;MRI;Normal
+276;15/05/2022;Lead 500mg;Urinalysis;Abnormal
+247;16/03/2023;Policy 500mg;Urinalysis;Abnormal
+57;18/05/2020;Traditional 500mg;ECG;Critical
+135;14/09/2022;Story 500mg;X-ray;Critical
+183;23/01/2024;Certainly 500mg;Urinalysis;Critical
+320;15/07/2024;Never 500mg;X-ray;Abnormal
+365;13/06/2020;Arrive 500mg;ECG;Critical
+247;18/11/2022;Special 500mg;MRI;Critical
+377;24/11/2022;Hospital 500mg;X-ray;Critical
+396;26/10/2024;Well 500mg;ECG;Abnormal
+120;04/11/2024;Customer 500mg;ECG;Abnormal
+494;23/04/2023;Moment 500mg;Blood Test;Abnormal
+404;10/09/2020;Onto 500mg;X-ray;Critical
+120;25/01/2023;Become 500mg;Blood Test;Normal
+442;09/01/2023;Hospital 500mg;Blood Test;Critical
+434;30/05/2021;Over 500mg;Urinalysis;Critical
+128;03/11/2023;Force 500mg;MRI;Abnormal
+278;27/08/2021;Newspaper 500mg;Blood Test;Normal
+476;23/08/2024;Admit 500mg;ECG;Critical
+201;24/07/2021;Foot 500mg;Blood Test;Abnormal
+166;18/04/2024;Indicate 500mg;Blood Test;Critical
+10;30/04/2020;Room 500mg;CT Scan;Abnormal
+253;03/05/2020;Ahead 500mg;X-ray;Normal
+276;30/09/2022;Open 500mg;CT Scan;Abnormal
+444;27/02/2024;Stay 500mg;MRI;Normal
+340;15/06/2023;Above 500mg;ECG;Critical
+397;19/05/2022;Goal 500mg;Blood Test;Abnormal
+80;13/04/2022;Benefit 500mg;Blood Test;Critical
+309;20/09/2022;Especially 500mg;Blood Test;Normal
+54;31/08/2024;Spend 500mg;X-ray;Normal
+53;14/09/2024;Indicate 500mg;Urinalysis;Normal
+311;21/09/2023;Stay 500mg;X-ray;Normal
+379;15/03/2021;Store 500mg;Blood Test;Normal
+265;13/03/2022;Forget 500mg;MRI;Abnormal
+360;27/09/2021;Scene 500mg;Blood Test;Abnormal
+304;05/03/2022;Into 500mg;MRI;Critical
+394;22/07/2023;Their 500mg;X-ray;Abnormal
+16;10/06/2021;Play 500mg;CT Scan;Normal
+222;28/06/2020;Director 500mg;Blood Test;Abnormal
+244;26/06/2021;Player 500mg;Blood Test;Abnormal
+105;06/04/2020;Agree 500mg;Blood Test;Abnormal
+375;20/03/2022;Because 500mg;X-ray;Normal
+14;20/02/2022;Appear 500mg;X-ray;Normal
+475;06/01/2021;Old 500mg;ECG;Abnormal
+194;28/10/2020;Focus 500mg;CT Scan;Critical
+314;28/04/2022;Hit 500mg;ECG;Normal
+339;01/04/2021;Success 500mg;Urinalysis;Abnormal
+336;28/07/2023;Administration 500mg;Blood Test;Abnormal
+147;12/04/2020;Window 500mg;CT Scan;Critical
+2;22/04/2022;Successful 500mg;Urinalysis;Normal
+192;12/05/2024;The 500mg;Urinalysis;Abnormal
+481;18/06/2022;Fight 500mg;MRI;Critical
+96;24/04/2021;Develop 500mg;ECG;Normal
+99;20/06/2024;Well 500mg;MRI;Abnormal
+343;13/12/2023;Play 500mg;Blood Test;Normal
+154;29/04/2020;Clear 500mg;MRI;Critical
+465;23/07/2024;Break 500mg;ECG;Critical
+303;19/06/2020;Cold 500mg;Blood Test;Abnormal
+94;05/09/2020;Up 500mg;MRI;Critical
+346;07/12/2022;Wall 500mg;ECG;Abnormal
+3;10/07/2021;Tell 500mg;ECG;Critical
+154;14/02/2021;Wait 500mg;Urinalysis;Critical
+455;24/09/2024;Difficult 500mg;ECG;Normal
+292;17/12/2020;Authority 500mg;Blood Test;Normal
+415;06/05/2024;Personal 500mg;X-ray;Critical
+146;16/09/2024;At 500mg;ECG;Abnormal
+215;16/02/2023;Public 500mg;ECG;Critical
+117;11/11/2022;Book 500mg;ECG;Abnormal
+174;18/04/2021;Prepare 500mg;X-ray;Critical
+275;27/07/2024;Body 500mg;Blood Test;Normal
+246;12/05/2020;Knowledge 500mg;X-ray;Abnormal
+361;13/04/2021;Third 500mg;CT Scan;Abnormal
+190;09/10/2022;Government 500mg;MRI;Abnormal
+161;22/10/2020;Every 500mg;CT Scan;Normal
+34;25/08/2020;Every 500mg;ECG;Critical
+162;20/10/2020;Reflect 500mg;Blood Test;Critical
+1;01/12/2021;Threat 500mg;X-ray;Critical
+26;21/11/2020;Drive 500mg;CT Scan;Normal
+21;02/01/2021;Staff 500mg;X-ray;Normal
+87;14/02/2024;Ask 500mg;Blood Test;Critical
+79;31/01/2021;Personal 500mg;Urinalysis;Critical
+297;03/12/2022;Kid 500mg;CT Scan;Critical
+219;03/09/2023;Worker 500mg;Urinalysis;Critical
+485;23/05/2022;Event 500mg;CT Scan;Abnormal
+226;28/11/2024;Become 500mg;Urinalysis;Normal
+289;13/07/2022;Any 500mg;Blood Test;Normal
+80;29/07/2023;Player 500mg;Blood Test;Abnormal
+225;25/01/2023;Difficult 500mg;Urinalysis;Normal
+260;03/01/2021;Much 500mg;Blood Test;Critical
+72;31/10/2023;Away 500mg;ECG;Critical
+282;22/02/2023;Nearly 500mg;MRI;Critical
+407;05/03/2022;Remain 500mg;ECG;Critical
+188;30/08/2020;Small 500mg;Blood Test;Normal
+307;16/12/2023;Son 500mg;CT Scan;Normal
+163;27/04/2021;Field 500mg;Blood Test;Critical
+231;18/12/2021;Prepare 500mg;MRI;Abnormal
+68;24/04/2020;Camera 500mg;X-ray;Normal
+259;23/01/2021;Also 500mg;Urinalysis;Critical
+490;06/11/2022;Rise 500mg;Urinalysis;Critical
+459;27/12/2023;Responsibility 500mg;ECG;Abnormal
+167;08/03/2023;Business 500mg;X-ray;Critical
+385;05/02/2022;American 500mg;Urinalysis;Critical
+387;02/10/2022;Hold 500mg;Blood Test;Normal
+398;09/01/2022;Up 500mg;CT Scan;Critical
+124;06/01/2021;Stand 500mg;Blood Test;Critical
+194;26/01/2021;Up 500mg;CT Scan;Abnormal
+381;31/01/2024;Buy 500mg;CT Scan;Critical
+462;23/09/2024;Scientist 500mg;Blood Test;Abnormal
+278;07/06/2020;Throw 500mg;ECG;Critical
+482;24/01/2022;Throughout 500mg;Blood Test;Critical
+368;26/11/2022;People 500mg;X-ray;Critical
+366;10/03/2024;Once 500mg;CT Scan;Abnormal
+149;22/03/2020;Challenge 500mg;MRI;Abnormal
+381;20/03/2023;Movement 500mg;X-ray;Abnormal
+352;25/03/2020;However 500mg;MRI;Abnormal
+242;26/07/2022;Enter 500mg;X-ray;Critical
+405;07/01/2023;North 500mg;Urinalysis;Abnormal
+95;02/02/2025;Stuff 500mg;X-ray;Normal
+443;04/02/2021;Maybe 500mg;Urinalysis;Critical
+248;27/02/2023;Six 500mg;Urinalysis;Abnormal
+263;26/06/2020;Town 500mg;MRI;Normal
+284;18/01/2023;Anything 500mg;Urinalysis;Abnormal
+21;04/07/2022;Table 500mg;MRI;Critical
+467;10/06/2022;Play 500mg;ECG;Normal
+59;12/01/2024;Suffer 500mg;Blood Test;Critical
+135;11/07/2023;Moment 500mg;X-ray;Critical
+355;17/08/2024;Network 500mg;MRI;Critical
+366;29/08/2024;My 500mg;Urinalysis;Critical
+313;02/08/2020;Up 500mg;Blood Test;Normal
+219;22/08/2024;Whose 500mg;X-ray;Abnormal
+51;05/11/2020;Chair 500mg;X-ray;Abnormal
+301;28/01/2025;Least 500mg;ECG;Normal
+138;28/04/2024;Main 500mg;X-ray;Abnormal
+380;30/05/2022;Fast 500mg;ECG;Abnormal
+230;19/06/2020;Whom 500mg;MRI;Abnormal
+492;08/11/2023;Away 500mg;ECG;Normal
+331;01/12/2022;Return 500mg;MRI;Abnormal
+341;03/09/2024;Meet 500mg;CT Scan;Normal
+222;22/12/2022;Trip 500mg;Urinalysis;Abnormal
+458;26/02/2022;See 500mg;CT Scan;Abnormal
+487;12/04/2024;Professor 500mg;ECG;Abnormal
+345;05/03/2022;Himself 500mg;ECG;Abnormal
+359;15/08/2022;Prevent 500mg;X-ray;Normal
+21;08/10/2022;Community 500mg;Urinalysis;Normal
+127;03/04/2020;Woman 500mg;MRI;Critical
+127;12/04/2024;Require 500mg;Urinalysis;Abnormal
+422;07/10/2024;Call 500mg;CT Scan;Critical
+84;02/09/2022;Rich 500mg;ECG;Abnormal
+102;19/06/2024;City 500mg;Urinalysis;Critical
+279;15/10/2024;Chair 500mg;Blood Test;Normal
+493;17/07/2021;General 500mg;Urinalysis;Abnormal
+282;12/08/2021;Most 500mg;Blood Test;Critical
+123;02/06/2021;Audience 500mg;MRI;Critical
+249;21/11/2024;Heavy 500mg;ECG;Critical
+164;05/04/2022;Say 500mg;MRI;Normal
+69;28/03/2022;Executive 500mg;CT Scan;Abnormal
+141;23/09/2024;Mission 500mg;CT Scan;Normal
+309;06/06/2022;Same 500mg;Blood Test;Abnormal
+337;19/07/2022;First 500mg;MRI;Abnormal
+485;26/11/2021;Cause 500mg;CT Scan;Abnormal
+301;04/07/2020;Long 500mg;Blood Test;Critical
+54;25/05/2023;Rest 500mg;ECG;Critical
+263;15/05/2021;Sing 500mg;Blood Test;Critical
+3;31/08/2020;Available 500mg;X-ray;Normal
+37;08/06/2021;Generation 500mg;Urinalysis;Critical
+108;06/12/2021;Mention 500mg;CT Scan;Critical
+488;05/10/2024;Including 500mg;MRI;Normal
+498;31/08/2021;Woman 500mg;CT Scan;Critical
+23;19/03/2024;Popular 500mg;X-ray;Abnormal
+17;23/11/2020;Skin 500mg;Urinalysis;Critical
+190;26/12/2023;Stop 500mg;CT Scan;Abnormal
+357;25/11/2022;Much 500mg;Urinalysis;Normal
+225;01/11/2021;For 500mg;CT Scan;Abnormal
+333;13/02/2024;Increase 500mg;CT Scan;Critical
+194;16/09/2021;Owner 500mg;Blood Test;Abnormal
+68;20/01/2024;Interesting 500mg;CT Scan;Abnormal
+389;14/08/2024;View 500mg;ECG;Critical
+1;11/05/2022;Raise 500mg;ECG;Abnormal
+140;07/04/2021;Inside 500mg;ECG;Abnormal
+80;12/11/2023;Trip 500mg;Urinalysis;Abnormal
+165;14/02/2022;Movie 500mg;ECG;Abnormal
+357;01/05/2022;High 500mg;X-ray;Normal
+58;01/12/2022;Near 500mg;CT Scan;Normal
+231;23/08/2024;Pick 500mg;ECG;Abnormal
+452;18/04/2022;Move 500mg;X-ray;Normal
+168;14/10/2024;Trial 500mg;Urinalysis;Normal
+210;06/11/2023;Hold 500mg;X-ray;Critical
+487;09/02/2022;Offer 500mg;MRI;Normal
+15;27/08/2024;Along 500mg;Blood Test;Critical
+244;10/02/2021;Candidate 500mg;Blood Test;Normal
+249;10/04/2023;Year 500mg;CT Scan;Critical
+290;03/02/2025;Car 500mg;X-ray;Critical
+24;04/09/2022;Political 500mg;MRI;Critical
+244;02/05/2021;According 500mg;Blood Test;Abnormal
+396;12/12/2024;Media 500mg;CT Scan;Abnormal
+105;23/11/2022;Challenge 500mg;CT Scan;Critical
+471;19/03/2021;Among 500mg;ECG;Critical
+209;16/06/2021;Man 500mg;Urinalysis;Abnormal
+31;24/11/2024;Election 500mg;CT Scan;Critical
+152;28/02/2022;Impact 500mg;X-ray;Normal
+148;24/05/2020;Watch 500mg;MRI;Abnormal
+14;03/07/2023;Investment 500mg;CT Scan;Normal
+283;31/03/2024;Movie 500mg;CT Scan;Critical
+203;12/01/2022;National 500mg;CT Scan;Normal
+242;25/04/2020;Mrs 500mg;ECG;Abnormal
+380;08/04/2024;Adult 500mg;MRI;Critical
+330;28/06/2022;Test 500mg;X-ray;Critical
+256;04/08/2023;Yourself 500mg;Urinalysis;Abnormal
+20;10/03/2021;Congress 500mg;Urinalysis;Critical
+140;19/10/2020;Impact 500mg;X-ray;Normal
+160;15/10/2021;Moment 500mg;MRI;Abnormal
+451;23/11/2024;Risk 500mg;ECG;Normal
+430;04/07/2021;Live 500mg;X-ray;Normal
+401;06/07/2023;Lose 500mg;MRI;Normal
+169;12/12/2022;Personal 500mg;Blood Test;Normal
+246;10/03/2020;See 500mg;X-ray;Critical
+35;06/05/2024;Article 500mg;Urinalysis;Critical
+108;16/12/2024;Example 500mg;CT Scan;Abnormal
+357;15/03/2021;Admit 500mg;Urinalysis;Abnormal
+440;10/01/2024;Game 500mg;Blood Test;Normal
+206;24/07/2020;Hotel 500mg;Urinalysis;Normal
+136;05/12/2021;Among 500mg;MRI;Abnormal
+129;23/12/2022;Month 500mg;MRI;Critical
+268;04/06/2020;Born 500mg;CT Scan;Critical
+250;01/06/2020;Become 500mg;MRI;Normal
+490;30/01/2023;Hope 500mg;Urinalysis;Normal
+211;17/09/2022;Common 500mg;Blood Test;Critical
+95;07/04/2023;Mother 500mg;MRI;Normal
+174;21/03/2024;Tend 500mg;CT Scan;Normal
+110;03/07/2024;Amount 500mg;X-ray;Normal
+38;28/07/2024;Edge 500mg;CT Scan;Normal
+216;05/02/2025;Physical 500mg;X-ray;Abnormal
+81;12/07/2023;Commercial 500mg;Blood Test;Abnormal
+229;13/09/2020;Ahead 500mg;X-ray;Normal
+61;08/09/2022;Event 500mg;MRI;Abnormal
+341;12/07/2021;Customer 500mg;X-ray;Normal
+282;27/07/2021;Scientist 500mg;CT Scan;Abnormal
+87;27/10/2020;Method 500mg;Blood Test;Normal
+283;02/03/2024;Process 500mg;CT Scan;Abnormal
+273;22/01/2022;Skin 500mg;CT Scan;Abnormal
+428;05/07/2024;Thought 500mg;CT Scan;Critical
+472;20/07/2022;Necessary 500mg;X-ray;Abnormal
+139;05/06/2023;Research 500mg;ECG;Critical
+13;25/06/2024;Them 500mg;MRI;Normal
+202;09/10/2021;Item 500mg;X-ray;Normal
+78;22/06/2024;Now 500mg;Blood Test;Critical
+335;24/08/2021;Fire 500mg;ECG;Abnormal
+266;29/11/2024;Ago 500mg;ECG;Critical
+500;27/12/2023;Education 500mg;Blood Test;Critical
+491;12/04/2023;Let 500mg;Blood Test;Abnormal
+8;03/12/2022;Strong 500mg;Urinalysis;Normal
+410;16/12/2024;Also 500mg;CT Scan;Normal
+440;24/09/2022;Cup 500mg;MRI;Critical
+84;01/05/2021;Such 500mg;X-ray;Abnormal
+246;10/02/2022;Add 500mg;MRI;Normal
+131;30/06/2020;Miss 500mg;Blood Test;Abnormal
+199;08/01/2024;Authority 500mg;Urinalysis;Abnormal
+233;16/10/2021;City 500mg;CT Scan;Critical
+374;20/01/2024;Last 500mg;Blood Test;Critical
+242;03/12/2020;Stock 500mg;X-ray;Abnormal
+237;13/05/2023;Yes 500mg;ECG;Normal
+374;14/09/2023;Represent 500mg;MRI;Critical
+255;22/11/2021;Son 500mg;Urinalysis;Normal
+62;08/06/2022;Or 500mg;Urinalysis;Abnormal
+212;13/06/2022;Most 500mg;ECG;Critical
+303;26/05/2020;Wrong 500mg;Blood Test;Critical
+241;02/09/2024;They 500mg;ECG;Abnormal
+369;28/03/2020;Exactly 500mg;MRI;Abnormal
+210;13/02/2022;Many 500mg;ECG;Abnormal
+19;21/05/2023;Language 500mg;ECG;Abnormal
+457;30/05/2022;Herself 500mg;MRI;Abnormal
+398;19/09/2024;Public 500mg;Blood Test;Critical
+139;07/12/2020;Bill 500mg;MRI;Critical
+69;19/04/2024;His 500mg;Urinalysis;Normal
+382;30/01/2021;Worker 500mg;CT Scan;Abnormal
+448;05/07/2024;Skill 500mg;Blood Test;Normal
+282;26/05/2021;Campaign 500mg;X-ray;Normal
+158;08/04/2022;Official 500mg;MRI;Normal
+20;26/09/2022;Such 500mg;MRI;Normal
+249;03/11/2021;Program 500mg;Urinalysis;Normal
+497;23/03/2022;Son 500mg;CT Scan;Critical
+478;02/07/2024;Interview 500mg;Urinalysis;Abnormal
+296;02/06/2024;Specific 500mg;Blood Test;Critical
+195;15/11/2020;Land 500mg;ECG;Abnormal
+156;27/12/2021;Stage 500mg;MRI;Normal
+271;24/01/2024;Daughter 500mg;X-ray;Critical
+484;06/03/2023;Wife 500mg;Urinalysis;Abnormal
+367;19/10/2020;Plant 500mg;ECG;Critical
+490;20/08/2024;Our 500mg;MRI;Critical
+376;22/04/2023;Crime 500mg;MRI;Normal
+32;28/07/2023;Author 500mg;Urinalysis;Normal
+179;20/04/2020;Imagine 500mg;Blood Test;Critical
+372;05/09/2022;Film 500mg;ECG;Abnormal
+353;05/03/2021;Record 500mg;CT Scan;Normal
+143;09/01/2021;Listen 500mg;X-ray;Normal
+480;26/07/2022;Listen 500mg;Urinalysis;Abnormal
+414;23/12/2020;Job 500mg;ECG;Normal
+157;06/04/2021;Kid 500mg;Blood Test;Normal
+408;23/01/2021;Democratic 500mg;Blood Test;Critical
+249;08/10/2021;Mother 500mg;CT Scan;Normal
+260;16/11/2021;Difference 500mg;Blood Test;Normal
+135;03/10/2023;Knowledge 500mg;MRI;Critical
+168;12/10/2024;Admit 500mg;X-ray;Abnormal
+486;11/04/2021;Available 500mg;Blood Test;Critical
+63;01/07/2020;Opportunity 500mg;CT Scan;Critical
+336;03/04/2020;Risk 500mg;CT Scan;Critical
+448;25/07/2024;Military 500mg;Urinalysis;Normal
+202;01/09/2022;Forward 500mg;MRI;Critical
+380;04/11/2020;Across 500mg;MRI;Abnormal
+330;18/05/2020;Hear 500mg;Urinalysis;Critical
+242;10/04/2024;Eye 500mg;X-ray;Normal
+466;06/05/2022;Difficult 500mg;X-ray;Normal
+456;05/09/2024;Address 500mg;Urinalysis;Critical
+424;10/07/2022;Other 500mg;Blood Test;Normal
+222;05/06/2023;Place 500mg;ECG;Abnormal
+494;10/02/2020;Letter 500mg;Blood Test;Normal
+252;06/12/2022;Usually 500mg;CT Scan;Normal
+72;18/12/2022;Energy 500mg;CT Scan;Critical
+55;19/02/2024;Campaign 500mg;Urinalysis;Normal
+193;24/10/2020;Subject 500mg;MRI;Normal

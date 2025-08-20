@@ -1,0 +1,501 @@
+Patient_ID;Name;Age;Gender;Blood_Type;Admission_Date;Discharge_Date;Diagnosis;Treatment_Plan
+1;Kimberly Wilkerson;81;M;B+;06/01/2022;12/01/2022;Pneumonia;Observation
+2;Angelica Mills;76;F;A-;14/07/2023;24/07/2023;Pneumonia;Surgery
+3;Joseph Shaw;28;F;O+;20/02/2024;;Diabetes;Lifestyle Changes
+4;Debra Carney;49;M;A+;02/12/2021;10/12/2021;Hypertension;Lifestyle Changes
+5;William Carpenter;62;M;A+;19/01/2021;;Flu;Medication
+6;Dr. Kevin Graham;19;O;O+;18/11/2022;26/11/2022;Asthma;Lifestyle Changes
+7;Adam Roberts;91;M;B-;04/04/2023;11/04/2023;Pneumonia;Therapy
+8;Kathy Glass;88;O;A+;04/12/2022;05/12/2022;Fracture;Medication
+9;John Perkins;96;M;B-;26/04/2020;01/05/2020;Asthma;Therapy
+10;Michael Salinas;38;M;AB+;15/07/2021;;Diabetes;Medication
+11;Karen Cameron;93;M;O+;18/04/2022;24/04/2022;Asthma;Therapy
+12;Julie Smith;8;O;AB-;27/01/2024;02/02/2024;Asthma;Lifestyle Changes
+13;Tammy Sherman;4;M;A-;05/11/2022;18/11/2022;Fracture;Surgery
+14;Gregory Walsh;15;F;O-;30/10/2020;01/11/2020;Flu;Observation
+15;Bradley Delgado;80;O;O-;20/04/2020;21/04/2020;Fracture;Surgery
+16;Megan House;74;O;O+;28/08/2023;05/09/2023;Flu;Observation
+17;Robert Wiley;33;M;B+;02/07/2020;11/07/2020;Flu;Medication
+18;Allison Dudley;60;F;O+;27/08/2021;;Pneumonia;Observation
+19;Jonathan Perez;14;M;O+;13/02/2023;19/02/2023;Migraine;Lifestyle Changes
+20;Sean Evans;51;F;B+;04/05/2021;;Diabetes;Lifestyle Changes
+21;Kelly Ewing;84;F;B+;10/03/2021;15/03/2021;Hypertension;Therapy
+22;Alyssa Maxwell;84;O;B+;03/08/2022;;Fracture;Therapy
+23;Janice Orozco;39;F;A+;19/11/2023;30/11/2023;Diabetes;Therapy
+24;Shawn Smith;45;F;B+;02/11/2021;;COVID-19;Lifestyle Changes
+25;Amy Sanchez;35;O;O-;08/08/2024;13/08/2024;Migraine;Surgery
+26;Angel Marks;75;M;O-;28/01/2021;06/02/2021;Diabetes;Lifestyle Changes
+27;Veronica Marks;74;M;O-;25/05/2023;26/05/2023;Diabetes;Observation
+28;Russell Douglas;50;M;A-;24/09/2023;07/10/2023;Fracture;Surgery
+29;Christopher Price;52;M;AB+;21/12/2024;25/12/2024;Asthma;Lifestyle Changes
+30;Joseph Garcia;48;O;A+;16/03/2024;;Fracture;Lifestyle Changes
+31;Ricardo Lyons;49;F;O-;21/10/2024;02/11/2024;COVID-19;Lifestyle Changes
+32;Richard Potter;99;O;O+;14/04/2020;24/04/2020;COVID-19;Therapy
+33;Deborah Turner;25;F;B+;16/08/2023;27/08/2023;Hypertension;Surgery
+34;Michelle Costa;69;F;AB-;15/11/2023;20/11/2023;Fracture;Therapy
+35;Alex Ramos;97;M;O-;04/06/2022;14/06/2022;Flu;Medication
+36;Haley Campbell;14;M;O+;22/12/2021;26/12/2021;COVID-19;Medication
+37;Michelle Austin;1;M;B+;05/02/2025;09/02/2025;Fracture;Lifestyle Changes
+38;Jason Fox;100;F;O-;21/12/2021;26/12/2021;Hypertension;Lifestyle Changes
+39;Justin Obrien;70;M;A+;09/08/2021;18/08/2021;Diabetes;Observation
+40;Joseph Anderson;36;M;B-;21/06/2023;25/06/2023;COVID-19;Surgery
+41;Courtney Little;21;F;A+;06/08/2023;16/08/2023;Pneumonia;Therapy
+42;Timothy Guerrero;87;M;O-;07/10/2024;11/10/2024;Flu;Surgery
+43;Katherine Blevins;69;F;B-;15/02/2023;01/03/2023;Flu;Surgery
+44;Mrs. Christine Roman;89;M;O+;23/04/2020;;Fracture;Observation
+45;Leah Garcia;25;M;B+;03/05/2020;16/05/2020;Hypertension;Medication
+46;Eric Nichols;94;M;B+;06/06/2020;08/06/2020;Fracture;Observation
+47;Meghan Salas;83;O;AB-;16/04/2023;24/04/2023;Asthma;Lifestyle Changes
+48;Jim Velasquez;5;O;O+;24/07/2023;05/08/2023;Pneumonia;Observation
+49;Bradley Watts;59;F;B-;17/10/2024;;Hypertension;Therapy
+50;James White;67;O;B+;25/02/2022;27/02/2022;COVID-19;Medication
+51;Angela Valencia;58;F;AB+;12/12/2021;26/12/2021;Flu;Observation
+52;Penny Graham;2;F;O+;12/02/2020;19/02/2020;Migraine;Lifestyle Changes
+53;Mr. Michael Contreras;96;F;O+;22/08/2021;04/09/2021;Migraine;Observation
+54;Jason Perry;30;O;B-;30/08/2020;02/09/2020;COVID-19;Medication
+55;Cindy Rogers;34;M;AB+;22/03/2023;;Asthma;Surgery
+56;Brenda Fisher;58;M;O+;23/08/2024;03/09/2024;COVID-19;Surgery
+57;Samuel Jackson;35;F;B+;26/10/2020;;Migraine;Medication
+58;David Mercer;9;O;A+;06/11/2022;08/11/2022;Pneumonia;Lifestyle Changes
+59;Charles Glover;24;M;B+;29/08/2020;30/08/2020;Diabetes;Medication
+60;Alicia Mclaughlin;10;F;O-;08/01/2022;20/01/2022;Diabetes;Therapy
+61;Kimberly Hernandez;98;O;O+;06/10/2020;19/10/2020;Diabetes;Observation
+62;Jonathan Cruz;91;O;A+;04/01/2024;;Hypertension;Therapy
+63;Denise Spears;87;F;O-;21/02/2020;25/02/2020;Hypertension;Observation
+64;Pamela Cabrera;68;M;O+;20/03/2024;22/03/2024;Asthma;Medication
+65;Rick Nelson;47;M;B-;14/09/2023;20/09/2023;Pneumonia;Medication
+66;Jennifer Garcia;2;M;B-;02/04/2024;;Hypertension;Therapy
+67;Mr. Sean Cordova;9;O;AB-;18/02/2023;;Migraine;Surgery
+68;William Reyes;32;F;A+;08/10/2022;10/10/2022;Fracture;Surgery
+69;Rebecca Mccoy;95;F;A-;17/01/2024;23/01/2024;Migraine;Medication
+70;Lisa Ferrell;20;O;AB+;23/04/2022;04/05/2022;Hypertension;Observation
+71;Erik Glover;74;O;AB-;28/06/2023;11/07/2023;COVID-19;Surgery
+72;James Noble;93;O;B-;19/04/2020;23/04/2020;Hypertension;Observation
+73;Brent Flores;49;M;O-;21/09/2021;01/10/2021;Flu;Lifestyle Changes
+74;Tracey Jacobs;41;M;AB+;17/11/2021;27/11/2021;Pneumonia;Observation
+75;Natalie Kim;16;O;B+;04/05/2024;14/05/2024;Flu;Medication
+76;Juan Lee;9;F;O+;12/06/2021;15/06/2021;Fracture;Therapy
+77;Bradley Howard;61;F;O+;03/04/2024;11/04/2024;Fracture;Therapy
+78;Hannah Lloyd;77;F;O+;16/05/2020;19/05/2020;Hypertension;Therapy
+79;Frances Vazquez;25;O;AB-;24/06/2023;;Pneumonia;Lifestyle Changes
+80;Jeffery Sullivan;58;M;AB+;22/02/2023;25/02/2023;Pneumonia;Surgery
+81;Samantha Chambers;45;O;AB-;17/10/2020;31/10/2020;Diabetes;Surgery
+82;Ashley Mckinney;91;F;A-;01/04/2022;12/04/2022;Hypertension;Lifestyle Changes
+83;Brandon Allen;58;F;AB-;11/01/2024;;Diabetes;Medication
+84;Shannon Harris;85;M;B+;22/02/2023;;Diabetes;Therapy
+85;Zachary Hines;71;F;B-;22/01/2024;26/01/2024;Hypertension;Therapy
+86;Charles Webb;88;F;B-;05/09/2023;10/09/2023;Fracture;Observation
+87;Natasha Turner;84;F;A-;19/04/2021;03/05/2021;Flu;Lifestyle Changes
+88;Megan Haley;59;F;B+;03/04/2023;09/04/2023;Hypertension;Therapy
+89;Samuel Mcdaniel;73;F;A-;11/12/2023;14/12/2023;COVID-19;Observation
+90;Seth Brown;41;O;A+;01/02/2021;11/02/2021;Diabetes;Surgery
+91;Mckenzie Sanders;25;F;AB-;11/01/2021;;Diabetes;Observation
+92;Brian Taylor;46;F;B-;10/12/2020;24/12/2020;Pneumonia;Lifestyle Changes
+93;Allison Harrison;45;O;O+;03/09/2023;07/09/2023;Asthma;Medication
+94;David Kennedy;65;M;A+;02/09/2020;;COVID-19;Observation
+95;Kathleen Vazquez;64;O;O+;05/07/2024;13/07/2024;COVID-19;Surgery
+96;Taylor Macdonald;98;F;B+;02/10/2021;07/10/2021;Fracture;Lifestyle Changes
+97;Jonathan Cooper;68;O;O-;13/04/2023;24/04/2023;Fracture;Lifestyle Changes
+98;Jonathan Moody;88;F;O-;26/03/2020;;Pneumonia;Lifestyle Changes
+99;Michael Black;41;F;B-;12/02/2022;18/02/2022;Hypertension;Therapy
+100;Jennifer Hicks;88;F;AB+;13/06/2022;21/06/2022;Migraine;Surgery
+101;Adam Wagner;81;F;B+;27/06/2023;;Hypertension;Therapy
+102;Morgan Carey MD;17;O;O+;24/10/2024;;Asthma;Surgery
+103;Jared Gonzalez;56;F;O+;17/09/2020;22/09/2020;Migraine;Observation
+104;Alexandra Morris;54;F;A+;02/06/2021;;Flu;Observation
+105;Kelly Conrad;62;O;O-;24/12/2024;;COVID-19;Observation
+106;Nancy Lopez;46;O;A+;06/07/2022;08/07/2022;Hypertension;Medication
+107;Christy Bartlett;79;M;AB+;06/06/2021;;Asthma;Therapy
+108;Susan Williams;32;M;O-;27/01/2021;28/01/2021;Migraine;Observation
+109;Julie Freeman;4;M;A-;20/11/2020;;Asthma;Surgery
+110;Carolyn Solis;38;O;B-;06/10/2023;09/10/2023;Diabetes;Lifestyle Changes
+111;Kelly Gonzalez;66;M;A-;23/07/2024;;Hypertension;Lifestyle Changes
+112;Matthew Murray;34;O;O+;18/06/2021;24/06/2021;Hypertension;Therapy
+113;Kurt Tran;99;F;O-;02/02/2021;12/02/2021;Asthma;Observation
+114;Kyle Baird;36;F;B+;20/12/2023;27/12/2023;Diabetes;Lifestyle Changes
+115;Ronnie Swanson;91;M;B-;28/12/2023;03/01/2024;Asthma;Medication
+116;Jennifer Cantu;61;M;O+;11/02/2023;12/02/2023;Hypertension;Therapy
+117;Christopher Perez;57;O;B-;01/01/2024;;Diabetes;Surgery
+118;Dominique Singleton;63;F;O+;05/04/2021;18/04/2021;Fracture;Medication
+119;Mallory Dean;65;M;B+;15/08/2023;26/08/2023;Fracture;Medication
+120;Samantha Walters;50;O;O-;19/01/2025;26/01/2025;Asthma;Lifestyle Changes
+121;Barbara Hill;42;M;B-;08/01/2024;19/01/2024;Asthma;Lifestyle Changes
+122;Carl Taylor;74;F;B-;04/03/2023;13/03/2023;Asthma;Medication
+123;John Simon;2;M;O+;07/10/2024;18/10/2024;Diabetes;Observation
+124;Nathan Romero;96;M;A-;15/10/2022;26/10/2022;Asthma;Observation
+125;Frank Johnson;77;O;B-;14/12/2024;;Asthma;Surgery
+126;Danielle Wilson;76;M;B+;16/12/2020;;Migraine;Surgery
+127;Joseph Butler;1;F;O-;17/08/2022;;Pneumonia;Lifestyle Changes
+128;Calvin Moore;74;F;A-;04/01/2024;10/01/2024;Migraine;Surgery
+129;Ms. Jennifer Marsh PhD;96;O;AB+;09/12/2024;22/12/2024;COVID-19;Therapy
+130;Paige Rodriguez;81;F;B-;11/01/2021;15/01/2021;COVID-19;Lifestyle Changes
+131;Barbara Wagner;42;O;B-;09/04/2023;;Pneumonia;Medication
+132;Kevin Fuller;8;M;AB-;20/05/2024;;COVID-19;Observation
+133;Ashley Simon;92;F;AB+;14/01/2024;19/01/2024;Pneumonia;Surgery
+134;Nicole Lambert;100;F;O+;18/06/2020;27/06/2020;Flu;Medication
+135;Angela Smith;69;F;O+;03/08/2022;06/08/2022;Fracture;Observation
+136;Nicholas Blake;20;F;A+;29/09/2023;03/10/2023;COVID-19;Lifestyle Changes
+137;Michelle Ward;35;M;A-;03/07/2024;13/07/2024;COVID-19;Medication
+138;Beverly Williams;55;M;AB+;07/04/2020;19/04/2020;COVID-19;Medication
+139;Craig Wilkins;48;M;AB-;03/09/2021;06/09/2021;Migraine;Medication
+140;Desiree Martin;9;M;O-;29/12/2022;10/01/2023;COVID-19;Therapy
+141;Dustin Phillips;75;M;O-;19/05/2020;21/05/2020;Asthma;Lifestyle Changes
+142;Eugene Stanton;25;M;B+;27/10/2023;;COVID-19;Surgery
+143;Colin Welch;100;F;A+;27/09/2020;;Migraine;Therapy
+144;Jennifer Walsh;46;M;O-;20/03/2024;;Hypertension;Therapy
+145;Erica Jimenez;33;M;O-;13/06/2022;14/06/2022;Flu;Observation
+146;Kelly Novak;56;F;O+;27/12/2023;07/01/2024;Pneumonia;Observation
+147;Kelly Davis;67;O;AB+;25/12/2023;27/12/2023;Hypertension;Observation
+148;Terry Rosales;16;M;A-;03/12/2020;11/12/2020;Asthma;Medication
+149;Tina Burch;59;O;B+;09/10/2020;;Pneumonia;Lifestyle Changes
+150;Misty Nelson;12;F;A+;24/06/2020;29/06/2020;Asthma;Medication
+151;Ricardo Johnson;37;M;O+;07/10/2021;19/10/2021;COVID-19;Lifestyle Changes
+152;Karen Kim;100;F;B+;27/08/2020;29/08/2020;Fracture;Surgery
+153;Crystal Lane;62;F;O+;04/05/2022;07/05/2022;Asthma;Therapy
+154;William Douglas;54;F;B+;28/08/2023;05/09/2023;Hypertension;Medication
+155;Dillon Gonzales;61;F;A+;08/11/2020;21/11/2020;Fracture;Surgery
+156;Hannah Bennett;26;M;A-;13/02/2021;15/02/2021;Fracture;Observation
+157;Daniel Reed;74;F;AB-;29/05/2022;;COVID-19;Medication
+158;Abigail Cortez DDS;15;O;A-;06/07/2023;07/07/2023;Pneumonia;Surgery
+159;Ms. April Wilson;67;F;AB-;31/07/2023;12/08/2023;Fracture;Observation
+160;Rhonda Chavez;82;M;O+;28/12/2021;01/01/2022;Hypertension;Lifestyle Changes
+161;Samantha Vargas;99;O;O+;27/06/2020;11/07/2020;Flu;Therapy
+162;Richard Clayton;61;F;AB+;12/12/2021;24/12/2021;Migraine;Medication
+163;Michael Patel;88;F;AB-;22/10/2022;27/10/2022;Asthma;Lifestyle Changes
+164;Crystal Taylor;49;F;O+;29/08/2024;;Diabetes;Therapy
+165;Stephen Lewis;48;O;O+;23/07/2020;24/07/2020;Hypertension;Lifestyle Changes
+166;Jacqueline Jimenez;25;M;B+;23/07/2024;24/07/2024;Hypertension;Medication
+167;Timothy Gibbs;32;O;AB+;03/07/2024;10/07/2024;Asthma;Lifestyle Changes
+168;Haley Ramirez;48;O;A-;04/06/2024;;Asthma;Therapy
+169;Terry Taylor;6;F;A+;12/12/2022;;Asthma;Observation
+170;Lisa Jones;40;M;O+;17/09/2022;18/09/2022;Hypertension;Observation
+171;Susan Harrell;41;F;AB+;15/04/2023;16/04/2023;Pneumonia;Lifestyle Changes
+172;Vincent Smith;1;F;A-;28/09/2023;09/10/2023;Fracture;Medication
+173;Keith Velasquez;60;F;A+;15/10/2021;;COVID-19;Observation
+174;Rachel Contreras;33;F;O-;12/03/2021;17/03/2021;Hypertension;Observation
+175;Douglas Marsh;14;M;B-;26/10/2020;03/11/2020;COVID-19;Lifestyle Changes
+176;Amy Lopez;64;M;A-;27/07/2023;02/08/2023;Pneumonia;Lifestyle Changes
+177;Rebecca Smith;30;O;A-;08/04/2021;22/04/2021;Flu;Surgery
+178;Ashley Gilmore;35;F;B+;02/07/2020;11/07/2020;Pneumonia;Therapy
+179;Vanessa Bush;26;M;A+;10/03/2023;16/03/2023;Hypertension;Lifestyle Changes
+180;Ryan Thompson;68;M;A+;27/04/2023;;Hypertension;Surgery
+181;Matthew Brewer;87;F;AB-;10/03/2023;14/03/2023;Flu;Therapy
+182;Elizabeth Browning;0;F;AB+;01/12/2020;04/12/2020;Flu;Observation
+183;Darren Taylor;82;F;B-;20/10/2021;29/10/2021;Pneumonia;Therapy
+184;Anthony Sanchez;71;O;O-;18/06/2020;22/06/2020;Flu;Medication
+185;Jacqueline Compton;68;M;O+;06/06/2024;11/06/2024;Migraine;Therapy
+186;Hannah Conner;70;O;A-;18/08/2021;21/08/2021;Fracture;Observation
+187;Sandra Johnson;41;M;A+;15/10/2020;20/10/2020;Hypertension;Medication
+188;Dr. Jorge Delacruz;46;M;B-;28/09/2022;29/09/2022;Pneumonia;Lifestyle Changes
+189;Victoria Parks;38;F;O-;26/07/2023;;Hypertension;Observation
+190;Miss Amanda Norton MD;70;O;A-;02/06/2020;;Asthma;Lifestyle Changes
+191;Kathryn Kennedy;98;F;AB+;23/04/2021;25/04/2021;COVID-19;Observation
+192;Danielle Miller;80;M;A-;22/04/2021;24/04/2021;Flu;Therapy
+193;Audrey Robinson;57;M;AB+;20/09/2023;25/09/2023;Migraine;Lifestyle Changes
+194;Jonathan Wilson;59;M;AB+;26/05/2024;;Flu;Medication
+195;Christopher Thompson;64;M;AB-;26/02/2020;09/03/2020;Asthma;Surgery
+196;Mr. Stephen Hunt DDS;54;M;O+;10/04/2024;13/04/2024;Hypertension;Surgery
+197;Robert Warner;70;F;A+;02/05/2024;;Flu;Observation
+198;Daniel Mckee;74;M;O-;03/06/2021;15/06/2021;Flu;Medication
+199;Tracy Rojas;42;O;B-;27/11/2023;07/12/2023;Fracture;Lifestyle Changes
+200;Alejandra Lopez;72;M;B-;15/02/2021;;COVID-19;Medication
+201;Anna Tyler;83;F;AB-;15/02/2022;28/02/2022;COVID-19;Therapy
+202;Ronnie Jackson;53;F;A+;01/05/2022;;Flu;Surgery
+203;Taylor Kelley;28;F;O+;01/11/2020;15/11/2020;Pneumonia;Medication
+204;Kenneth Bray;2;M;O+;26/08/2023;09/09/2023;Hypertension;Lifestyle Changes
+205;Mason Miranda;73;F;A+;20/09/2024;21/09/2024;Fracture;Medication
+206;Andrew Ross;85;F;A-;11/03/2022;22/03/2022;Migraine;Lifestyle Changes
+207;David Reed;75;F;A-;28/04/2020;;COVID-19;Observation
+208;Yvonne Torres;68;F;AB-;11/10/2024;22/10/2024;Asthma;Surgery
+209;Joann Ramirez;68;O;B+;23/01/2021;;Flu;Therapy
+210;Samuel Morales;33;F;AB+;15/03/2020;20/03/2020;COVID-19;Observation
+211;Ashley Valentine;42;M;O+;07/12/2021;12/12/2021;COVID-19;Observation
+212;Jason Lewis;87;O;A+;31/10/2021;03/11/2021;COVID-19;Observation
+213;Donald Coleman;8;O;O-;04/09/2023;;Migraine;Medication
+214;Jessica Miller;68;M;A-;06/03/2022;07/03/2022;Diabetes;Therapy
+215;Michael Christian;12;M;B+;22/12/2023;29/12/2023;Migraine;Medication
+216;Michael Craig;19;F;O+;21/05/2020;23/05/2020;Asthma;Surgery
+217;Randy Johnson;82;M;B+;21/04/2022;;Migraine;Lifestyle Changes
+218;Julie Kelley;15;M;A-;24/07/2021;29/07/2021;Migraine;Lifestyle Changes
+219;Leslie Bennett;83;O;B-;11/04/2023;;COVID-19;Observation
+220;Deborah Logan;14;F;B+;15/11/2021;23/11/2021;Asthma;Lifestyle Changes
+221;Joseph Hoover;33;F;AB-;07/03/2020;12/03/2020;Hypertension;Therapy
+222;Lance Douglas;52;M;AB-;23/01/2023;05/02/2023;Diabetes;Lifestyle Changes
+223;Stacey Peterson;65;F;B+;06/04/2021;;Pneumonia;Surgery
+224;Daniel Watkins;49;M;AB-;27/10/2020;07/11/2020;Migraine;Medication
+225;Alison Gibbs;72;M;AB-;28/10/2023;;Fracture;Medication
+226;Kenneth Ryan;47;M;AB-;16/09/2022;19/09/2022;Hypertension;Observation
+227;Michael Watson;6;F;AB+;29/01/2025;08/02/2025;Migraine;Lifestyle Changes
+228;Vicki Khan;34;O;A+;14/11/2023;17/11/2023;Pneumonia;Therapy
+229;Tammy Smith;41;F;B-;01/05/2024;12/05/2024;Migraine;Medication
+230;Danny Aguilar;58;O;O-;01/07/2020;07/07/2020;Pneumonia;Medication
+231;Thomas Maxwell;50;F;O-;25/01/2023;30/01/2023;Asthma;Medication
+232;Laura Jacobson;68;F;A-;06/01/2022;;Diabetes;Surgery
+233;Ms. Dawn Lowe;41;M;B+;27/07/2021;08/08/2021;COVID-19;Observation
+234;Joseph Hatfield;85;M;A+;26/11/2024;08/12/2024;Fracture;Surgery
+235;Michael Bush;68;F;B-;27/04/2023;04/05/2023;Diabetes;Therapy
+236;Evan Ruiz;26;M;AB+;12/07/2023;19/07/2023;Asthma;Lifestyle Changes
+237;Kenneth Hodge;38;F;AB-;10/07/2021;24/07/2021;Fracture;Surgery
+238;Kristopher Smith;92;F;O+;28/11/2024;04/12/2024;Diabetes;Observation
+239;Jennifer Jordan;4;O;B-;21/07/2022;;Flu;Therapy
+240;Angel Hardin;72;M;AB+;28/10/2022;09/11/2022;Diabetes;Surgery
+241;Patrick Mata;57;O;B+;02/04/2022;;Asthma;Surgery
+242;Jason Smith;99;F;AB+;27/07/2024;07/08/2024;COVID-19;Medication
+243;Joshua Richardson;42;O;AB-;09/07/2021;20/07/2021;Diabetes;Lifestyle Changes
+244;Dana Glover;5;M;A+;04/07/2022;05/07/2022;Diabetes;Therapy
+245;Melissa Ross;90;O;AB+;10/07/2020;22/07/2020;Hypertension;Medication
+246;Alexander Mccormick;24;M;AB-;25/09/2023;01/10/2023;Asthma;Observation
+247;Michael Gill;74;O;O-;26/11/2023;;Asthma;Medication
+248;David Davies;57;M;B-;02/07/2020;07/07/2020;Migraine;Therapy
+249;Roger Moore;1;M;A-;27/01/2022;10/02/2022;Diabetes;Observation
+250;Wendy George;7;M;A+;24/07/2024;26/07/2024;Flu;Lifestyle Changes
+251;Nicholas Ramsey;54;F;B+;19/06/2022;22/06/2022;Asthma;Therapy
+252;Robert Wilkerson;38;M;O-;11/04/2022;;Flu;Lifestyle Changes
+253;Peter Robinson;37;O;O-;04/11/2021;;Hypertension;Lifestyle Changes
+254;John Simon;31;F;AB+;17/06/2024;29/06/2024;Asthma;Lifestyle Changes
+255;William Jenkins;18;O;AB+;20/05/2022;24/05/2022;Asthma;Medication
+256;Amy Black;5;M;O-;01/04/2020;;Diabetes;Surgery
+257;Brandon Martinez;69;F;AB-;21/09/2023;23/09/2023;Fracture;Lifestyle Changes
+258;Katherine Townsend;94;O;A-;19/11/2024;;Diabetes;Therapy
+259;Glen Thomas;86;O;B-;18/01/2021;20/01/2021;Flu;Surgery
+260;Katherine Bradley;48;F;A+;02/03/2023;;Fracture;Therapy
+261;Mr. Jose Miller;77;O;B-;19/06/2024;24/06/2024;Hypertension;Medication
+262;Brian Barrett;94;O;O+;13/09/2021;27/09/2021;Hypertension;Surgery
+263;Christopher Curtis;44;M;B+;08/05/2021;12/05/2021;Migraine;Therapy
+264;Sarah Moyer;42;F;B-;29/12/2023;30/12/2023;Hypertension;Therapy
+265;Jimmy Golden;16;M;A+;13/11/2021;19/11/2021;Asthma;Therapy
+266;Thomas Thomas;83;M;O+;05/09/2023;18/09/2023;Flu;Observation
+267;Jared Duran;47;F;B+;04/04/2021;15/04/2021;Pneumonia;Therapy
+268;Timothy Robinson;59;O;AB+;18/06/2023;23/06/2023;Migraine;Surgery
+269;Jeffrey Castro;80;O;AB-;31/08/2020;;Fracture;Observation
+270;Diane Walker;96;F;A+;11/04/2023;16/04/2023;COVID-19;Surgery
+271;Trevor Wyatt;39;O;A+;24/11/2024;03/12/2024;Fracture;Therapy
+272;John Meadows;24;O;B+;22/12/2023;25/12/2023;Flu;Observation
+273;Julie Escobar;17;M;A+;14/02/2023;17/02/2023;Asthma;Medication
+274;Grant Ward;1;M;B+;24/08/2024;;COVID-19;Therapy
+275;Emily Lucas;48;M;O+;10/02/2020;17/02/2020;Hypertension;Lifestyle Changes
+276;Sandra Kelley;41;F;A+;09/10/2024;20/10/2024;Asthma;Lifestyle Changes
+277;Richard Conway;9;O;O+;10/05/2022;12/05/2022;COVID-19;Therapy
+278;Roberto Jefferson;58;M;B-;10/02/2024;20/02/2024;Asthma;Therapy
+279;Alexandra Harris;92;M;A+;21/08/2023;29/08/2023;Flu;Therapy
+280;Gerald Taylor;21;M;A-;07/12/2020;;Diabetes;Medication
+281;Sherri Allen;69;O;AB-;13/02/2021;15/02/2021;Diabetes;Therapy
+282;Evan Morgan;59;F;B+;18/06/2024;;Diabetes;Lifestyle Changes
+283;Jeanne Robinson;29;O;AB+;20/11/2022;25/11/2022;Flu;Therapy
+284;Andrew Bray;6;F;AB+;20/12/2020;03/01/2021;COVID-19;Lifestyle Changes
+285;Debra Cisneros;75;F;AB+;20/09/2021;29/09/2021;Hypertension;Observation
+286;Lisa Baker;57;O;A+;19/02/2020;25/02/2020;Flu;Therapy
+287;Elizabeth Adkins;72;F;O-;03/12/2021;;Hypertension;Medication
+288;Brandon Taylor;81;F;O-;14/11/2023;21/11/2023;Pneumonia;Medication
+289;Kevin Espinoza;15;F;B+;18/05/2023;30/05/2023;Asthma;Surgery
+290;Daniel Martinez;86;M;A-;28/06/2022;01/07/2022;Flu;Therapy
+291;Anthony Petty;3;M;B-;23/09/2020;05/10/2020;Hypertension;Surgery
+292;James Jenkins;85;M;AB-;07/09/2020;11/09/2020;Migraine;Surgery
+293;David Snyder;8;O;B+;27/06/2023;11/07/2023;Fracture;Lifestyle Changes
+294;Laura Adams;35;F;A-;03/01/2022;09/01/2022;Diabetes;Observation
+295;Vanessa White;85;M;O+;21/07/2022;23/07/2022;Flu;Observation
+296;Lauren Schwartz;97;F;O-;27/12/2024;28/12/2024;Diabetes;Lifestyle Changes
+297;John Sweeney;99;M;B-;21/09/2023;26/09/2023;Flu;Observation
+298;Karen James;2;O;B+;04/03/2022;14/03/2022;Hypertension;Observation
+299;Richard Clark;57;O;A+;26/11/2024;03/12/2024;Migraine;Medication
+300;Karen Beasley;59;M;AB+;07/01/2022;11/01/2022;Pneumonia;Surgery
+301;Wesley Larsen;11;F;B+;12/11/2024;18/11/2024;Migraine;Observation
+302;Michael Carlson;64;F;O-;19/07/2021;20/07/2021;Hypertension;Observation
+303;Bobby Jones;13;O;B-;13/07/2023;;COVID-19;Lifestyle Changes
+304;Heather Anderson;65;M;B-;08/01/2022;12/01/2022;Fracture;Medication
+305;Tony Roach;59;F;O+;01/05/2020;04/05/2020;Asthma;Medication
+306;Brian Howard;14;M;B-;03/06/2023;09/06/2023;Hypertension;Lifestyle Changes
+307;Charles Cole;11;M;AB-;07/12/2024;08/12/2024;Migraine;Observation
+308;Adriana Douglas;29;F;A+;30/08/2022;;Asthma;Surgery
+309;Kevin Mccall;73;F;O+;20/01/2022;;Pneumonia;Therapy
+310;Michael Dalton;58;F;AB-;17/04/2023;22/04/2023;Diabetes;Observation
+311;Brittany Smith;10;M;O+;29/01/2025;;COVID-19;Surgery
+312;Linda Henderson;96;M;AB+;04/02/2022;12/02/2022;Fracture;Therapy
+313;Mr. Timothy Stewart;67;F;B-;26/05/2022;03/06/2022;Hypertension;Therapy
+314;Ronnie Montoya;22;O;O-;25/10/2020;01/11/2020;COVID-19;Therapy
+315;William Powell PhD;59;M;A-;12/01/2024;20/01/2024;Migraine;Medication
+316;Chelsea Brown;70;M;AB+;06/05/2020;09/05/2020;Pneumonia;Surgery
+317;Janice Gomez;30;F;O+;26/07/2021;04/08/2021;COVID-19;Observation
+318;Devin James;40;F;AB-;30/04/2023;;Diabetes;Therapy
+319;Steven Hopkins;38;O;B-;30/08/2020;01/09/2020;Flu;Surgery
+320;Ashley Sparks;63;F;A-;26/11/2020;29/11/2020;Fracture;Surgery
+321;Brandon Frye;25;F;A+;13/07/2020;16/07/2020;Asthma;Lifestyle Changes
+322;Julie Lewis;38;M;O-;30/06/2020;;Pneumonia;Lifestyle Changes
+323;Chad Frazier;9;O;B-;10/06/2024;12/06/2024;Flu;Therapy
+324;Kendra Moody;71;O;AB+;06/07/2020;10/07/2020;Hypertension;Surgery
+325;Benjamin Gomez;72;F;A+;21/08/2022;;Pneumonia;Lifestyle Changes
+326;Aaron Foster;84;O;AB-;06/11/2022;09/11/2022;Fracture;Surgery
+327;Joel Hull II;23;M;AB-;21/11/2022;;Pneumonia;Observation
+328;Stephanie Watkins;20;M;B+;24/06/2021;;Pneumonia;Medication
+329;Ashley Munoz;64;M;A+;06/08/2024;;COVID-19;Surgery
+330;John Hernandez;41;M;AB+;28/11/2023;05/12/2023;Diabetes;Lifestyle Changes
+331;Cynthia Mendez;90;F;AB+;07/02/2022;;Hypertension;Medication
+332;Beverly Smith;24;F;O+;22/12/2021;03/01/2022;Asthma;Medication
+333;Rebecca Mueller;61;F;O-;13/03/2021;21/03/2021;Diabetes;Lifestyle Changes
+334;Shaun Fisher;15;F;A+;08/08/2020;19/08/2020;Asthma;Therapy
+335;Holly Schroeder;92;F;AB+;09/06/2022;10/06/2022;Pneumonia;Medication
+336;Dr. Stephanie Cook PhD;77;O;A-;12/11/2021;20/11/2021;Asthma;Medication
+337;Connie Harris;36;F;AB-;25/06/2021;;Pneumonia;Therapy
+338;Thomas Williams;80;M;O+;25/08/2024;30/08/2024;Diabetes;Medication
+339;Jennifer Parker;89;O;O+;28/05/2020;08/06/2020;Pneumonia;Lifestyle Changes
+340;Katherine Wilkinson;62;F;B-;02/04/2022;10/04/2022;Fracture;Observation
+341;Beverly Miles;70;M;O+;17/01/2023;28/01/2023;Flu;Lifestyle Changes
+342;Samantha Palmer;54;M;AB+;14/12/2022;17/12/2022;Hypertension;Observation
+343;Catherine Miller;100;O;A-;13/09/2024;17/09/2024;Fracture;Observation
+344;Cheryl Owens;73;M;A+;24/02/2024;29/02/2024;COVID-19;Surgery
+345;Michael Wood;93;F;O+;28/02/2023;01/03/2023;Fracture;Medication
+346;Mark Reynolds;94;F;AB+;03/12/2022;06/12/2022;Asthma;Surgery
+347;Nicole Collins;73;M;A+;12/05/2024;23/05/2024;Diabetes;Therapy
+348;Rebecca Hall;78;M;AB+;22/05/2022;03/06/2022;COVID-19;Lifestyle Changes
+349;Thomas Ponce;4;M;O-;09/11/2024;17/11/2024;Fracture;Observation
+350;Jesse Walker;80;M;O-;27/12/2024;01/01/2025;Migraine;Medication
+351;James Caldwell;68;F;A-;21/04/2023;01/05/2023;Pneumonia;Surgery
+352;Joshua Simpson;24;O;A+;01/05/2020;10/05/2020;Migraine;Therapy
+353;Tanya Jackson;47;M;AB+;26/06/2024;;Diabetes;Observation
+354;Rodney Jackson;8;M;A+;16/02/2021;21/02/2021;Pneumonia;Surgery
+355;Alexander Adams;36;O;O+;20/03/2022;28/03/2022;Asthma;Therapy
+356;Kyle Hahn;92;M;B-;24/08/2021;07/09/2021;Hypertension;Observation
+357;Amber Parsons;59;M;AB+;18/02/2023;;Migraine;Surgery
+358;Larry Hill;95;F;B+;01/12/2020;;Fracture;Therapy
+359;Jacqueline Jenkins;4;O;A-;05/05/2023;09/05/2023;Migraine;Therapy
+360;Edward Jensen;85;O;AB-;21/07/2021;29/07/2021;Pneumonia;Therapy
+361;Donna Macdonald;77;O;AB+;23/09/2023;27/09/2023;Asthma;Medication
+362;Jon Hunter;44;O;O-;05/02/2024;12/02/2024;Fracture;Observation
+363;Dan Bennett;46;M;O+;11/03/2021;14/03/2021;COVID-19;Lifestyle Changes
+364;Kevin Jackson;72;O;AB-;16/03/2024;17/03/2024;Hypertension;Therapy
+365;Elizabeth Robinson;76;F;A-;13/12/2021;21/12/2021;Migraine;Surgery
+366;Ian Hernandez;48;M;B-;01/12/2020;12/12/2020;Migraine;Therapy
+367;Oscar Turner;61;M;B+;23/08/2020;25/08/2020;Hypertension;Lifestyle Changes
+368;Daniel Ellis;30;F;O-;16/12/2021;17/12/2021;Diabetes;Observation
+369;Rita Watkins;60;F;AB+;10/08/2022;18/08/2022;Diabetes;Medication
+370;Marcus Walker;93;O;O+;20/09/2024;30/09/2024;Pneumonia;Therapy
+371;Harold Green;92;F;B+;04/06/2020;17/06/2020;Diabetes;Surgery
+372;Heather Williamson;53;M;O-;23/04/2021;03/05/2021;Hypertension;Therapy
+373;Jessica Benson;7;F;AB-;02/01/2024;08/01/2024;Diabetes;Therapy
+374;Yvette Garcia;51;F;O+;17/08/2023;22/08/2023;COVID-19;Medication
+375;Todd Houston;73;M;O+;14/08/2023;17/08/2023;COVID-19;Surgery
+376;David Lynch;74;O;B-;05/11/2020;;COVID-19;Observation
+377;Michael Fuentes;74;F;A+;01/03/2023;;Flu;Surgery
+378;John Evans;6;M;O-;12/03/2022;14/03/2022;Hypertension;Therapy
+379;Jerry Cooper;42;M;AB-;01/12/2023;12/12/2023;COVID-19;Therapy
+380;Brandon Moore;67;F;A+;01/10/2023;15/10/2023;Asthma;Lifestyle Changes
+381;Raymond Wallace;80;M;A-;20/07/2021;26/07/2021;COVID-19;Observation
+382;Yvonne Diaz;42;M;A-;17/02/2023;23/02/2023;Diabetes;Therapy
+383;Robin Wallace;37;M;A-;15/05/2024;22/05/2024;Diabetes;Observation
+384;Alexander May;49;F;AB+;16/08/2022;21/08/2022;Hypertension;Therapy
+385;Jason Phelps;71;O;B-;17/11/2022;28/11/2022;Flu;Therapy
+386;John Johnson;39;F;B+;11/06/2024;20/06/2024;Pneumonia;Therapy
+387;Veronica Montoya;29;F;O-;08/12/2023;09/12/2023;Diabetes;Therapy
+388;Kenneth Rodriguez DVM;26;M;O+;04/11/2020;15/11/2020;Pneumonia;Lifestyle Changes
+389;Erin Valenzuela;96;O;A+;11/01/2021;16/01/2021;Flu;Observation
+390;Jennifer Brown;54;F;A-;30/10/2021;;Fracture;Therapy
+391;Kevin Lee;75;M;AB-;08/12/2023;09/12/2023;Pneumonia;Therapy
+392;Karen Davis;23;F;A+;21/03/2022;03/04/2022;Pneumonia;Observation
+393;Tammy Porter;22;O;A+;11/04/2021;;Asthma;Surgery
+394;Shane Jenkins;74;M;A-;09/03/2021;;Fracture;Lifestyle Changes
+395;John Lang;90;M;B+;17/04/2021;26/04/2021;Diabetes;Observation
+396;Michael Adams;32;F;AB-;06/08/2021;13/08/2021;Flu;Therapy
+397;Charles Rice;16;M;B+;21/01/2025;28/01/2025;Migraine;Lifestyle Changes
+398;Tanner Diaz;46;M;O+;13/02/2024;;Diabetes;Surgery
+399;Mary Taylor;45;F;O+;16/06/2024;20/06/2024;Fracture;Observation
+400;Natasha Gallagher;26;O;A+;30/04/2022;;COVID-19;Medication
+401;Jesse Adams;59;O;O+;02/09/2022;11/09/2022;Fracture;Medication
+402;Jeffrey Rasmussen;9;F;O-;08/01/2021;;Hypertension;Medication
+403;Amanda Carroll;69;M;B-;06/04/2020;09/04/2020;Fracture;Medication
+404;Jamie Ward;87;O;O-;01/03/2022;08/03/2022;Pneumonia;Lifestyle Changes
+405;Jose Cruz;36;F;A-;16/02/2022;21/02/2022;COVID-19;Lifestyle Changes
+406;Paul Rhodes;1;F;AB+;17/06/2024;19/06/2024;Pneumonia;Medication
+407;Kristin Hogan;53;M;B-;05/07/2023;13/07/2023;COVID-19;Medication
+408;Jennifer Cook;51;O;B+;20/04/2023;23/04/2023;Migraine;Surgery
+409;Julia Myers;22;F;O-;23/07/2023;;Asthma;Surgery
+410;Tyler Larson;41;F;B-;20/08/2021;24/08/2021;Flu;Medication
+411;Sarah Hernandez;18;M;AB-;19/03/2021;;Pneumonia;Surgery
+412;Angela Clark;53;F;B-;22/01/2024;29/01/2024;Pneumonia;Surgery
+413;Emma Miller;48;M;B+;05/12/2022;12/12/2022;Diabetes;Lifestyle Changes
+414;Stacy Rhodes;52;F;AB-;03/09/2024;17/09/2024;Pneumonia;Lifestyle Changes
+415;Briana Duncan;5;M;A-;27/07/2022;31/07/2022;Asthma;Surgery
+416;Kayla Pope;14;F;B-;17/05/2020;27/05/2020;Migraine;Observation
+417;William Dean;99;M;AB-;28/02/2023;;Migraine;Lifestyle Changes
+418;William Thompson;51;M;AB-;12/06/2022;22/06/2022;Asthma;Surgery
+419;Michael Nguyen;67;F;A-;22/10/2024;01/11/2024;Fracture;Observation
+420;Michael Leonard;76;M;O+;11/03/2021;14/03/2021;Flu;Observation
+421;Monique Clarke;63;F;B-;01/03/2023;13/03/2023;COVID-19;Medication
+422;John Chambers;14;F;AB+;23/12/2020;31/12/2020;Asthma;Medication
+423;Carolyn Hancock;85;M;AB+;21/11/2021;28/11/2021;COVID-19;Surgery
+424;Amanda White;96;M;B+;15/07/2022;18/07/2022;Flu;Medication
+425;Sarah Marshall;13;F;A+;31/03/2020;06/04/2020;Pneumonia;Medication
+426;Jacob Farmer;56;F;A+;20/11/2021;01/12/2021;Pneumonia;Surgery
+427;Brianna Rose;3;O;B+;20/05/2024;28/05/2024;Fracture;Lifestyle Changes
+428;Stephen Fernandez;22;M;O+;10/02/2022;;Pneumonia;Medication
+429;Jonathan Lloyd;44;M;A-;06/02/2021;10/02/2021;Flu;Medication
+430;Michele Ewing;94;O;O-;02/02/2025;15/02/2025;Fracture;Medication
+431;Mark Golden;94;M;B+;30/07/2023;;Pneumonia;Surgery
+432;Taylor Anderson;58;M;B-;14/03/2022;24/03/2022;COVID-19;Lifestyle Changes
+433;Jill White;81;M;A-;21/08/2021;03/09/2021;Asthma;Observation
+434;Kimberly Roy;50;O;B-;24/02/2024;26/02/2024;Pneumonia;Surgery
+435;Amanda Hill;70;F;A+;10/11/2021;;Pneumonia;Therapy
+436;Marcus Thornton;76;O;AB-;29/11/2021;05/12/2021;Pneumonia;Therapy
+437;Rebecca Sweeney;82;O;AB-;23/07/2022;29/07/2022;Asthma;Observation
+438;Kelli Rodriguez;26;M;AB+;30/03/2020;12/04/2020;Diabetes;Observation
+439;Carl Mercer;1;O;AB-;26/06/2024;05/07/2024;Migraine;Medication
+440;Carl Robinson;78;M;O+;28/12/2020;10/01/2021;Flu;Surgery
+441;Kathryn Robinson;99;O;AB-;29/12/2022;08/01/2023;Diabetes;Lifestyle Changes
+442;Christine Wright;40;O;AB+;07/03/2022;;Diabetes;Therapy
+443;Christopher Flores;93;O;B-;07/04/2022;;Migraine;Lifestyle Changes
+444;Erin Foster;84;M;A-;10/12/2021;16/12/2021;Fracture;Therapy
+445;Julie Vazquez;47;M;B+;21/02/2024;26/02/2024;Asthma;Observation
+446;Jennifer Boyer;76;M;B+;04/06/2020;13/06/2020;Fracture;Surgery
+447;Thomas Barnes;38;M;A-;21/05/2023;;Flu;Medication
+448;Toni Bowen;96;F;B+;15/11/2022;23/11/2022;Asthma;Observation
+449;Nancy Benson;11;M;AB-;13/08/2024;22/08/2024;Migraine;Observation
+450;Brandon Bishop;19;F;B-;08/02/2024;10/02/2024;Hypertension;Observation
+451;Brittany Davis;88;M;AB-;08/01/2025;14/01/2025;Pneumonia;Therapy
+452;Tina Holder;29;M;B-;19/04/2023;28/04/2023;COVID-19;Lifestyle Changes
+453;Thomas Brown;16;F;B+;15/06/2022;;COVID-19;Medication
+454;Margaret Lopez;85;M;AB-;31/10/2024;03/11/2024;Asthma;Surgery
+455;Heather Love;3;O;AB-;09/06/2024;14/06/2024;COVID-19;Lifestyle Changes
+456;Kevin Adams;26;O;B-;02/11/2023;15/11/2023;COVID-19;Medication
+457;Nicole Hawkins;40;O;O+;16/05/2021;25/05/2021;COVID-19;Observation
+458;Gabriella Boone;11;O;O-;18/08/2020;24/08/2020;Diabetes;Observation
+459;Brian Alvarez;85;F;B+;11/10/2020;;Asthma;Lifestyle Changes
+460;Paul Campbell;24;F;O+;14/12/2022;;Diabetes;Surgery
+461;William Scott;80;O;A-;12/10/2021;;Diabetes;Surgery
+462;Francisco Perry;4;O;AB+;26/12/2023;;Fracture;Surgery
+463;Kristen Williams;80;O;O+;19/05/2020;27/05/2020;COVID-19;Observation
+464;Pamela Gamble;73;F;B+;01/10/2021;10/10/2021;Pneumonia;Surgery
+465;Samantha Chavez;26;M;A-;11/09/2023;22/09/2023;Diabetes;Surgery
+466;Clinton Roberts;85;F;A+;06/12/2022;08/12/2022;Pneumonia;Observation
+467;Christopher Evans;75;F;AB+;18/10/2023;19/10/2023;Hypertension;Therapy
+468;Jonathan Sanchez;45;F;O+;08/05/2021;10/05/2021;Pneumonia;Lifestyle Changes
+469;Sandra Mason;38;O;A+;13/07/2021;15/07/2021;Hypertension;Lifestyle Changes
+470;Evelyn Brooks;74;F;O+;24/10/2020;26/10/2020;Asthma;Observation
+471;Vincent Porter;55;F;B+;14/09/2024;24/09/2024;Migraine;Lifestyle Changes
+472;Shawn Jacobs;8;M;O+;18/04/2024;;Fracture;Therapy
+473;Sheila Page;76;O;O+;31/07/2020;;Fracture;Medication
+474;Sierra Burton;27;F;B+;28/08/2024;;Flu;Observation
+475;Richard Smith;5;O;AB+;13/01/2024;26/01/2024;Diabetes;Lifestyle Changes
+476;Ethan Romero;0;F;B+;22/03/2021;24/03/2021;Flu;Therapy
+477;Peggy Vasquez;18;O;O-;11/10/2023;21/10/2023;Pneumonia;Surgery
+478;Adam Jackson;65;M;B-;14/05/2024;15/05/2024;Pneumonia;Therapy
+479;Joanna Davis;9;M;AB+;06/03/2024;17/03/2024;Flu;Medication
+480;Stefanie Young;78;F;AB+;07/06/2021;15/06/2021;Asthma;Observation
+481;Renee Howe;87;M;B-;09/06/2021;21/06/2021;Asthma;Medication
+482;Bradley Lawson;25;M;O+;25/07/2024;31/07/2024;Fracture;Observation
+483;John Harvey;75;F;O-;29/05/2021;;Pneumonia;Surgery
+484;Robert Petersen;41;M;O+;07/04/2023;08/04/2023;Hypertension;Lifestyle Changes
+485;Steve Weeks;94;O;O-;13/06/2023;;Asthma;Observation
+486;Tracy Larson;36;F;A+;05/01/2023;13/01/2023;Flu;Medication
+487;Christian Davis;97;M;AB-;08/11/2024;18/11/2024;Fracture;Lifestyle Changes
+488;Linda Mathis;1;M;B+;14/11/2020;15/11/2020;Fracture;Surgery
+489;Cassie Hardy;80;F;O+;26/04/2023;;Asthma;Therapy
+490;Ethan Campbell;40;O;AB+;28/10/2021;02/11/2021;Hypertension;Lifestyle Changes
+491;John Irwin;94;F;A+;11/01/2024;;Hypertension;Medication
+492;Jennifer Rodriguez;20;O;B+;07/04/2024;12/04/2024;Flu;Therapy
+493;William Wu;17;O;AB-;27/09/2020;;Migraine;Lifestyle Changes
+494;Olivia Koch;53;M;AB+;17/06/2020;23/06/2020;Diabetes;Surgery
+495;Benjamin Gilbert MD;37;F;AB-;26/11/2020;10/12/2020;Asthma;Surgery
+496;Kenneth Leach;42;M;B-;27/09/2024;08/10/2024;Fracture;Medication
+497;Jacob Morrow;38;F;O-;03/10/2022;11/10/2022;Fracture;Observation
+498;Kimberly Sharp;87;M;B-;27/07/2020;08/08/2020;Hypertension;Surgery
+499;Anthony Sparks;70;M;AB-;13/12/2022;27/12/2022;Pneumonia;Surgery
+500;Angie Thompson;48;F;B+;26/08/2022;05/09/2022;Diabetes;Therapy
